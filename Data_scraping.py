@@ -74,7 +74,8 @@ def fetch_with_retries(team_name, team_id, max_retries=3):
     for attempt in range(1, max_retries + 1):
         resp = requests.get(url_players, params=params, headers=headers)
         if resp.status_code == 200:
-            return resp.json().get("data", [])
+            players = resp.json().get("players", [])
+            return players
         else:
             print(f" → tentative {attempt} : erreur {resp.status_code} pour l'équipe {team_name}")
             # Si ce n’est pas la dernière tentative, attendre un peu avant de réessayer
@@ -91,8 +92,21 @@ for team_name, team_id in team_dict.items():
     print(f"In the loop : team {team_name} / {team_id}")
     players = fetch_with_retries(team_name, team_id, max_retries=3)
     for p in players:
-        p["equipe"] = team_name
-        all_players.append(p)
+        flat_player = {
+            "equipe": team_name,
+            **p.get("meta_data", {}),
+            **p.get("stats", {}).get("stats", {}),
+            **p.get("stats", {}).get("shooting", {}),
+            **p.get("stats", {}).get("passing", {}),
+            **p.get("stats", {}).get("passing_types", {}),
+            **p.get("stats", {}).get("gca", {}),
+            **p.get("stats", {}).get("defense", {}),
+            **p.get("stats", {}).get("possession", {}),
+            **p.get("stats", {}).get("playingtime", {}),
+            **p.get("stats", {}).get("misc", {})
+        }
+        all_players.append(flat_player)
+    
     # Toujours respecter le délai minimum entre deux appels initiaux
     time.sleep(6)
 
