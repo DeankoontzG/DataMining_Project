@@ -8,6 +8,6 @@ Lien vers la source de données : https://fbref.com/en/comps/13/stats/Ligue-1-St
 
 feature engeeniring : netoyer les données pour ses problématiques.
 
-tester plusieurs methodes pour selectionner les colonnes : PCA (moi), t-SNE, UMAP
+tester plusieurs methodes pour selectionner les colonnes : PCA (moi), t-SNE (Guilhem), UMAP (Youssef)
 
 Choisir quelle methodes de clusterings utiliser et en faire une chacun : (DBScan, Agglomerative Clustering) : youssef, (Gaussian Mixture, affinity propagation) : guillhem, (BIRCH, ward) :artus
