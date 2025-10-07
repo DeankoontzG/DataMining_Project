@@ -1,5 +1,13 @@
-Projet de Rémy Cazabet : 
+Projet de Rémy Cazabet :
 https://cazabetremy.fr/Teaching/DSIA/DM.html
 
 Lien vers l'API : https://fbrapi.com/documentation#team-season-stats
 Lien vers la source de données : https://fbref.com/en/comps/13/stats/Ligue-1-Stats
+
+# Répartitiondu travail
+
+feature engeeniring : netoyer les données pour ses problématiques.
+
+tester plusieurs methodes pour selectionner les colonnes : PCA (moi), t-SNE, UMAP
+
+Choisir quelle methodes de clusterings utiliser et en faire une chacun : (DBScan, Agglomerative Clustering) : youssef, (Gaussian Mixture, affinity propagation) : guillhem, (BIRCH, ward) :artus

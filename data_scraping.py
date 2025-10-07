@@ -1,3 +1,4 @@
+
 import requests
 import csv
 import time
@@ -25,13 +26,13 @@ if resp.status_code != 200:
 else:
     data = resp.json().get("data", [])
     team_ids = []
-    
+
     print("\nListe des équipes de Ligue 1 :")
     for team in data:
         meta = team.get("meta_data", {})
         team_id = meta.get("team_id")
         team_name = meta.get("team_name")
-        
+
         if team_id and team_name:
             team_dict[team_name] = team_id
             print(f"- {team_name} ({team_id})")
@@ -106,7 +107,7 @@ for team_name, team_id in team_dict.items():
             **p.get("stats", {}).get("misc", {})
         }
         all_players.append(flat_player)
-    
+
     # Toujours respecter le délai minimum entre deux appels initiaux
     time.sleep(6)
 
