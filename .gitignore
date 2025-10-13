@@ -220,3 +220,5 @@ notes.md
 local_data/
 .DS_Store
 src/.DS_Store
+src/**/.DS_Store
+src/youssef/notes/
