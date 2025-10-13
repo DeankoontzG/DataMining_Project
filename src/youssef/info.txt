@@ -1,150 +1,152 @@
-['equipe' ,
- 'player_id',
- 'player_name',
- 'player_country_code',
- 'age' : player age at the start of the season,
- 'positions' : most commonly played position by the player,
- 'matches_played': number of matches played by the player,
- 'starts' : game or games started by the player,
- 'min' : minutes,
- 'gls' : goals,
- 'ast', : assists,
- 'gls_and_ast' : goals and assists,
- 'non_pen_gls' : non-penalty goals,
- 'xg' : expected goals,
- 'non_pen_xg' : non-penalty expected goals,
- 'xag' : expected assisted goals,
- 'pk_made', : penalty kicks made,
- 'pk_att', : penalty kicks attempted,
- 'yellow_cards', : number of yellow cards,
- 'red_cards', : number of red cards,
- 'carries_prog' : progressive carries - Carries that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch
- 'passes_prog', : progressive passes - Completed passes that move the ball towards the opponent's goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch
- 'per90_gls', : goals scored per 90 minutes,
- 'per90_ast', : assists per 90 minutes,
- 'per90_non_pen_gls', : non penalty goals per 90 minutes - Goals minus Penalty Kicks made per 90 minutes. Minimum 30 minutes played per squad game to qualify as a leader
- 'per90_xg', : expected goals per 90 minutes,
- 'per90_xag', : expected assisted goals per 90 minutes,
- 'per90_non_pen_xg', : non penalty expected goals per 90 minutes
- 'sh', : numnber of total shots
- 'sot', : number of shots on target
- 'pct_sot', : percentage of shots on target
- 'per90_sh', : shots total per 90 minutes
- 'per90_sot', : shots on target per 90 minutes
- 'gls_per_sh', : goals per shot
- 'gls_per_sot', : goals per shot on target
- 'avg_sh_dist', : average shot distance
- 'fk_sh', : shots from free kicks
- 'npxg_per_sh', : non-penalty expected goals per shot
- 'gls_xg_diff', : goals minus expected goals
- 'non_pen_gls_xg_diff', : non-penalty goals minus non-penalty expected goals
- 'pass_cmp', : passes completed
- 'pass_att', : passes attempted
- 'pct_pass_cmp', : percentage of passes completed
- 'pass_ttl_dist', : total passing distance
- 'pass_cmp_s', : passes completed short (5-15 yards)
- 'pass_att_s', : passes attempted short (5-15 yards)
- 'pct_pass_cmp_s', : percentage of passes completed short
- 'pass_cmp_m', : passes completed medium (15-30 yards)
- 'pass_att_m', : passes attempted medium (15-30 yards)
- 'pct_pass_cmp_m', : percentage of passes completed medium
- 'pass_cmp_l', : passes completed long (30+ yards)
- 'pass_att_l', : passes attempted long (30+ yards)
- 'pct_pass_cmp_l', : percentage of passes completed long
- 'xa', : expected assists
- 'ast_xag_diff', : assists minus expected assisted goals
- 'pass_prog', : progressive passes
- 'pass_prog_ttl_dist', : total progressive passing distance
- 'key_passes', : key passes - Passes that directly lead to a shot (assisted shots)
- 'pass_fthird', : passes into the final third - completedd passes that enter the 1/3 of the pitch closest to the goal. Not including set pieces
- 'pass_opp_box', : passes into penalty area
- 'cross_opp_box', : crosses into penalty area
- 'pass_live', : live ball passes
- 'pass_dead', : dead ball passes - Dead ball passes. Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks
- 'pass_fk', : passes from free kicks
- 'through_balls', : Through balls 
- 'switches', : switches - Passes that travel more than 40 yards of the width of the pitc
- 'crosses', : crosses
- 'pass_offside', : passes offsside
- 'pass_blocked', : passes blocked - Blockedd by the opponent who was standing in the way
- 'throw_ins', : throw-ins taken
- 'ck', : corner kicks
- 'ck_in_swinger', : inswining corner kicks
- 'ck_out_swinger', : outswinging corner kicks
- 'ck_straight', : straight corner kicks
- 'ttl_sca', : total shots creating action - The two offensive actions directly leading to a shot, such as passes, take-ons and drawing fouls. Note: A single player can receive credit for multiple actions and the shot-taker can also receive credit.
- 'per90_sca', : total shots creating action per 90 minutes
- 'pass_live_sca', : shots creating action from live ball passes - Completed live-ball passes that lead to a shot attempt
- 'pass_dead_sca', : shots creating action from dead ball passes - Completed dead-ball passes that lead to a shot attempt. Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks
- 'take_on_sca', : shots creating action from take-ons - Successful take-ons that lead to a shot attempt
- 'sh_sca', : shots that lead to another shot attempt
- 'fld_sca', : fouls drawn that lead to a shot attempt
- 'def_sca', : defensive actions that lead to a shot attempt
- 'gca', : goals creating action - The two offsensive actions directly leading to a goal, such as passes, take-ons and drawing fouls. Note : A single player can receive credit for multiple actions and the shot-taker can also receive credit.
- 'per90_gca', : goals creating action per 90 minutes
- 'pass_live_gca' , : goals creating action from live ball passes - Completed live-ball passes that lead to a goal
- 'pass_dead_gca', : goals creating action from dead ball passes - Completed dead-ball passes that lead to a goal. Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks
- 'take_on_gca', : goals creating action from take-ons - Successful take-ons that lead to a goal
- 'sh_gca', : shots that lead to another goal-scoring shot
- 'fld_gca', : fouls drawn that lead to a goal
- 'def_gca', : defensive actions that lead to a goal
- 'tkl', : tackles
- 'tkl_won', : tackles won
- 'tkl_def_third', : tackles in defensive third
- 'tkl_mid_third', : tackles in middle third
- 'tkl_att_third', : tackles in attacking third
- 'tkl_drb', : number of dribblers tackled
- 'tkl_drb_att', : number of unsuccessful chanellenges plus number of dribblers tackled
- 'pct_tkl_drb_suc', : percentage of dribblers tackled 
- 'blocks', : number of times blocking the ball by standing in its path
- 'sh_blocked', : number of shots blocked
- 'int', : interceptions
- 'tkl_plus_int', : number of players tackled plus number of interceptions
- 'clearances', : clearances
- 'def_error', : errors - Mistakes leading to an opponent's shot
- 'touches', : touches - Number of times a player touches the ball. Note : Receiving a pass, then dirbbling, then sending a pass counts as one touch
- 'touch_def_box', : touches in the defensive penalty area
- 'touch_def_third', : touches in the defensive third
- 'touch_mid_third', : touches in the middle third 
- 'touch_fthird', : touches in the attacking third
- 'touch_opp_box', : touches in attacking penalty area
- 'touch_live', : touches (live-ball) - Live-ball touches. Does not include cornr kicks, throw-ins, kick-offs, goal kicks or penalty kicks
- 'take_on_att', : take-ons attempted
- 'take_on_suc', : successful take-ons
- 'pct_take_on_suc', : percentage of successful take-ons
- 'take_on_tkld', : times tackled during take-on
- 'pct_take_on_tkld', : percentage of times tackled during take-on
- 'carries', : number of times the player controlled the ball with their feet
- 'ttl_carries_dist', : total carrying distance
- 'ttl_carries_prog_dist', progressive carrying distance
- 'carries_fthird', : carries into the final third
- 'carries_opp_box', : carries into the penalty area
- 'carries_miscontrolled', : miscontrols - Number of times a player failed when attempting to gain control ofa ball 
- 'carries_dispossessed', : dispossessed - Number of times a player loses control of the ball after being tackled dby an opposing player. Does not include attempted take-ons.
- 'pass_recvd', : passes received
- 'pass_prog_rcvd', : progressive passes received
- 'min_per_match_played', : minutes per match played
- 'pct_squad_min', : percentage of squad minutes played - Percentage of team's total minutes in which player was on the pitch. Player minutes played divided by team total minutes playedd. Minimum 30 minutes played per squad game to qualify as leader.
- 'avg_min_starter', : Minutes per match started - Minimum 30 minutes played per squad game to qualify as a leader
- 'subs', : number of substitute appearances
- 'avg_min_sub', : minutes per subtitution - Minimum 30 minutes played dper squad game to qualify as a leader.
- 'unused_sub', : matches as unused sub 
- 'team_gls_on_pitch', : team goals scored (on pitch)
- 'team_gls_ag_on_pitch', : team goals allowed (on pitch)
- 'per90_plus_minus', : plus minus per 90 minutes - Goals scored minus goals allowed by the the team while the played dwas on the pitch per 90 minutes played. Minimum 30 minutes playedd per squadd game to qualify as a leader.
- 'per90_on_off', : plus/minus net per 90 minutes - Net goals per 90 minutes by the team while the player wass on the pitch minus net goals allowed per 90 minutes by the team whil ethe player was off the pitch. Minimum 30 minutes played per squad game to qualify as a leader.
- 'team_xg_on_pitch', : expected goals by team while on pitch
- 'team_xg_ag_on_pitch', : expected goals allowed by team while on pitch
- 'per90_x_plus_minus', : expected goals scored minus expected goals allowed by the team while the player was on the pitch per 90 minutes played.
- 'per90_x_on_off', : net expected goals per 90 minutes by the team while the player was on the pitch minus net expected goals per 90 minutes by the team while the player was off the pitch. Minimum 30 minutes played per squad game to qualify as a leader.
- 'second_yellow_cards', : number of second yellow cards
- 'fls_com', : fouls committed
- 'fls_drawn', : fouls drawn
- 'offside', : number of offsides
- 'pk_won', : penalty kicks won
- 'pk_conceded', : penalty kicks conceded
- 'og', : own goals
- 'ball_recov', : number of loose balls recovered
- 'air_dual_won', : number of aerials won
- 'air_dual_lost', : number of aerials lost
- 'pct_air_dual_won', : percentage of aerials won
+[
+    'equipe',
+    'player_id',
+    'player_name',
+    'player_country_code',
+    'age: player age at the start of the season',
+    'positions: most commonly played position by the player',
+    'matches_played: number of matches played by the player',
+    'starts: game or games started by the player',
+    'min: minutes',
+    'gls: goals',
+    'ast: assists',
+    'gls_and_ast: goals and assists',
+    'non_pen_gls: non-penalty goals',
+    'xg: expected goals',
+    'non_pen_xg: non-penalty expected goals',
+    'xag: expected assisted goals',
+    'pk_made: penalty kicks made',
+    'pk_att: penalty kicks attempted',
+    'yellow_cards: number of yellow cards',
+    'red_cards: number of red cards',
+    'carries_prog: progressive carries - Carries that move the ball towards the opponent\'s goal line at least 10 yards from its furthest point in the last six passes, or any carry into the penalty area. Excludes carries which end in the defending 50% of the pitch',
+    'passes_prog: progressive passes - Completed passes that move the ball towards the opponent\'s goal line at least 10 yards from its furthest point in the last six passes, or any completed pass into the penalty area. Excludes passes from the defending 40% of the pitch',
+    'per90_gls: goals scored per 90 minutes',
+    'per90_ast: assists per 90 minutes',
+    'per90_non_pen_gls: non penalty goals per 90 minutes - Goals minus Penalty Kicks made per 90 minutes. Minimum 30 minutes played per squad game to qualify as a leader',
+    'per90_xg: expected goals per 90 minutes',
+    'per90_xag: expected assisted goals per 90 minutes',
+    'per90_non_pen_xg: non penalty expected goals per 90 minutes',
+    'sh: number of total shots',
+    'sot: number of shots on target',
+    'pct_sot: percentage of shots on target',
+    'per90_sh: shots total per 90 minutes',
+    'per90_sot: shots on target per 90 minutes',
+    'gls_per_sh: goals per shot',
+    'gls_per_sot: goals per shot on target',
+    'avg_sh_dist: average shot distance',
+    'fk_sh: shots from free kicks',
+    'npxg_per_sh: non-penalty expected goals per shot',
+    'gls_xg_diff: goals minus expected goals',
+    'non_pen_gls_xg_diff: non-penalty goals minus non-penalty expected goals',
+    'pass_cmp: passes completed',
+    'pass_att: passes attempted',
+    'pct_pass_cmp: percentage of passes completed',
+    'pass_ttl_dist: total passing distance',
+    'pass_cmp_s: passes completed short (5-15 yards)',
+    'pass_att_s: passes attempted short (5-15 yards)',
+    'pct_pass_cmp_s: percentage of passes completed short',
+    'pass_cmp_m: passes completed medium (15-30 yards)',
+    'pass_att_m: passes attempted medium (15-30 yards)',
+    'pct_pass_cmp_m: percentage of passes completed medium',
+    'pass_cmp_l: passes completed long (30+ yards)',
+    'pass_att_l: passes attempted long (30+ yards)',
+    'pct_pass_cmp_l: percentage of passes completed long',
+    'xa: expected assists',
+    'ast_xag_diff: assists minus expected assisted goals',
+    'pass_prog: progressive passes',
+    'pass_prog_ttl_dist: total progressive passing distance',
+    'key_passes: key passes - Passes that directly lead to a shot (assisted shots)',
+    'pass_fthird: passes into the final third - completed passes that enter the 1/3 of the pitch closest to the goal. Not including set pieces',
+    'pass_opp_box: passes into penalty area',
+    'cross_opp_box: crosses into penalty area',
+    'pass_live: live ball passes',
+    'pass_dead: dead ball passes - Dead ball passes. Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks',
+    'pass_fk: passes from free kicks',
+    'through_balls: Through balls',
+    'switches: switches - Passes that travel more than 40 yards of the width of the pitch',
+    'crosses: crosses',
+    'pass_offside: passes offside',
+    'pass_blocked: passes blocked - Blocked by the opponent who was standing in the way',
+    'throw_ins: throw-ins taken',
+    'ck: corner kicks',
+    'ck_in_swinger: inswinging corner kicks',
+    'ck_out_swinger: outswinging corner kicks',
+    'ck_straight: straight corner kicks',
+    'ttl_sca: total shots creating action - The two offensive actions directly leading to a shot, such as passes, take-ons and drawing fouls. Note: A single player can receive credit for multiple actions and the shot-taker can also receive credit.',
+    'per90_sca: total shots creating action per 90 minutes',
+    'pass_live_sca: shots creating action from live ball passes - Completed live-ball passes that lead to a shot attempt',
+    'pass_dead_sca: shots creating action from dead ball passes - Completed dead-ball passes that lead to a shot attempt. Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks',
+    'take_on_sca: shots creating action from take-ons - Successful take-ons that lead to a shot attempt',
+    'sh_sca: shots that lead to another shot attempt',
+    'fld_sca: fouls drawn that lead to a shot attempt',
+    'def_sca: defensive actions that lead to a shot attempt',
+    'gca: goals creating action - The two offensive actions directly leading to a goal, such as passes, take-ons and drawing fouls. Note: A single player can receive credit for multiple actions and the shot-taker can also receive credit.',
+    'per90_gca: goals creating action per 90 minutes',
+    'pass_live_gca: goals creating action from live ball passes - Completed live-ball passes that lead to a goal',
+    'pass_dead_gca: goals creating action from dead ball passes - Completed dead-ball passes that lead to a goal. Includes free kicks, corner kicks, kick offs, throw-ins and goal kicks',
+    'take_on_gca: goals creating action from take-ons - Successful take-ons that lead to a goal',
+    'sh_gca: shots that lead to another goal-scoring shot',
+    'fld_gca: fouls drawn that lead to a goal',
+    'def_gca: defensive actions that lead to a goal',
+    'tkl: tackles',
+    'tkl_won: tackles won',
+    'tkl_def_third: tackles in defensive third',
+    'tkl_mid_third: tackles in middle third',
+    'tkl_att_third: tackles in attacking third',
+    'tkl_drb: number of dribblers tackled',
+    'tkl_drb_att: number of unsuccessful challenges plus number of dribblers tackled',
+    'pct_tkl_drb_suc: percentage of dribblers tackled',
+    'blocks: number of times blocking the ball by standing in its path',
+    'sh_blocked: number of shots blocked',
+    'int: interceptions',
+    'tkl_plus_int: number of players tackled plus number of interceptions',
+    'clearances: clearances',
+    'def_error: errors - Mistakes leading to an opponent\'s shot',
+    'touches: touches - Number of times a player touches the ball. Note: Receiving a pass, then dribbling, then sending a pass counts as one touch',
+    'touch_def_box: touches in the defensive penalty area',
+    'touch_def_third: touches in the defensive third',
+    'touch_mid_third: touches in the middle third',
+    'touch_fthird: touches in the attacking third',
+    'touch_opp_box: touches in attacking penalty area',
+    'touch_live: touches (live-ball) - Live-ball touches. Does not include corner kicks, throw-ins, kick-offs, goal kicks or penalty kicks',
+    'take_on_att: take-ons attempted',
+    'take_on_suc: successful take-ons',
+    'pct_take_on_suc: percentage of successful take-ons',
+    'take_on_tkld: times tackled during take-on',
+    'pct_take_on_tkld: percentage of times tackled during take-on',
+    'carries: number of times the player controlled the ball with their feet',
+    'ttl_carries_dist: total carrying distance',
+    'ttl_carries_prog_dist: progressive carrying distance',
+    'carries_fthird: carries into the final third',
+    'carries_opp_box: carries into the penalty area',
+    'carries_miscontrolled: miscontrols - Number of times a player failed when attempting to gain control of a ball',
+    'carries_dispossessed: dispossessed - Number of times a player loses control of the ball after being tackled by an opposing player. Does not include attempted take-ons.',
+    'pass_recvd: passes received',
+    'pass_prog_rcvd: progressive passes received',
+    'min_per_match_played: minutes per match played',
+    'pct_squad_min: percentage of squad minutes played - Percentage of team\'s total minutes in which player was on the pitch. Player minutes played divided by team total minutes played. Minimum 30 minutes played per squad game to qualify as leader.',
+    'avg_min_starter: minutes per match started - Minimum 30 minutes played per squad game to qualify as a leader',
+    'subs: number of substitute appearances',
+    'avg_min_sub: minutes per substitution - Minimum 30 minutes played per squad game to qualify as a leader.',
+    'unused_sub: matches as unused sub',
+    'team_gls_on_pitch: team goals scored (on pitch)',
+    'team_gls_ag_on_pitch: team goals allowed (on pitch)',
+    'per90_plus_minus: plus minus per 90 minutes - Goals scored minus goals allowed by the team while the player was on the pitch per 90 minutes played. Minimum 30 minutes played per squad game to qualify as a leader.',
+    'per90_on_off: plus/minus net per 90 minutes - Net goals per 90 minutes by the team while the player was on the pitch minus net goals allowed per 90 minutes by the team while the player was off the pitch. Minimum 30 minutes played per squad game to qualify as a leader.',
+    'team_xg_on_pitch: expected goals by team while on pitch',
+    'team_xg_ag_on_pitch: expected goals allowed by team while on pitch',
+    'per90_x_plus_minus: expected goals scored minus expected goals allowed by the team while the player was on the pitch per 90 minutes played.',
+    'per90_x_on_off: net expected goals per 90 minutes by the team while the player was on the pitch minus net expected goals per 90 minutes by the team while the player was off the pitch. Minimum 30 minutes played per squad game to qualify as a leader.',
+    'second_yellow_cards: number of second yellow cards',
+    'fls_com: fouls committed',
+    'fls_drawn: fouls drawn',
+    'offside: number of offsides',
+    'pk_won: penalty kicks won',
+    'pk_conceded: penalty kicks conceded',
+    'og: own goals',
+    'ball_recov: number of loose balls recovered',
+    'air_dual_won: number of aerials won',
+    'air_dual_lost: number of aerials lost',
+    'pct_air_dual_won: percentage of aerials won'
+]
