@@ -11,3 +11,8 @@ feature engeeniring : netoyer les données pour ses problématiques.
 tester plusieurs methodes pour selectionner les colonnes : PCA (moi), t-SNE (Guilhem), UMAP (Youssef)
 
 Choisir quelle methodes de clusterings utiliser et en faire une chacun : (DBScan, Agglomerative Clustering) : youssef, (Gaussian Mixture, affinity propagation) : guillhem, (BIRCH, ward) :artus
+
+---
+
+- Chacun utilise les jeux de donnees `(joueurs_ligue1_2024_2025_clean_per90.csv` et `joueurs_ligue1_2024_2025_clean_raw.csv`) pour faire la dimension reduction et du coup créer des "jeux de donnees reduits" associes a chaque methode de reduction de dimension (PCA, t-SNE, UMAP et ISOMap).
+- Pour le clustering on applique les differentes methodes sur les jeux de donnees reduits.
