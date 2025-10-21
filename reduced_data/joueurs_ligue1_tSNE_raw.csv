@@ -1,0 +1,334 @@
+tsne_1,tsne_2,tsne_3,player_name,equipe,positions
+5.2135596,37.20411,-9.013607,Jordan Lefort,Angers,DF
+17.575735,12.99353,-10.582007,Andrey Santos,Strasbourg,MF
+16.154295,6.0269513,-8.546276,Valentin Atangana Edoa,Reims,MF
+20.204426,-17.18409,11.656712,Himad Abdelli,Angers,"MF,FW"
+18.956604,-20.074043,23.351414,Mason Greenwood,Marseille,"FW,MF"
+15.171429,-15.089424,22.904013,Zuriko Davitashvili,Saint,"FW,MF"
+2.698818,34.243984,-10.798969,Gautier Lloris,Le Havre,DF
+5.7441936,-21.636208,16.902784,Matthis Abline,Nantes,FW
+12.211035,38.718365,-5.176593,Bafodé Diakité,Lille,DF
+26.404123,-3.3606956,15.845588,Adrien Truffert,Rennes,"DF,MF"
+8.596394,35.280106,-7.034388,Moussa Niakhate,Lyon,DF
+17.50277,29.359907,-0.67932487,Guela Doué,Strasbourg,DF
+10.270153,38.66591,-1.5644289,Alexsandro Ribeiro,Lille,DF
+16.77964,12.816189,-13.569479,Cristian Cásseres Jr.,Toulouse,MF
+20.800325,16.161787,-9.029309,Benjamin André,Lille,MF
+18.29276,-5.912739,24.051434,Gaëtan Perrin,Auxerre,"MF,FW"
+18.302155,-7.9580894,18.290995,Junya Ito,Reims,"FW,MF"
+23.100332,-6.096469,16.74405,Aron Dønnum,Toulouse,"DF,MF"
+28.667389,2.209174,17.522615,Kenny Lala,Brest,DF
+31.111689,-0.7617422,14.832549,Florent Hanin,Angers,DF
+19.24958,22.656755,3.1332557,Pierre Højbjerg,Marseille,MF
+21.171173,7.998706,-8.843515,Mahdi Camara,Brest,"MF,FW"
+8.433883,-18.343336,18.572443,Keito Nakamura,Reims,"FW,MF"
+-6.519601,38.303413,-12.958241,Jubal,Auxerre,DF
+10.259968,29.871426,-12.084604,Ismaël Doukouré,Strasbourg,"DF,MF"
+34.81343,4.3594112,11.281117,Léo Pétrot,Saint,DF
+-1.3176858,32.867252,-18.944729,Jean-Charles Castelletto,Nantes,"DF,MF"
+23.98218,12.509353,-5.9478326,Adrien Thomasson,Lens,MF
+18.894245,-8.914801,11.014643,Luis Henrique,Marseille,"DF,FW"
+18.23941,-14.411448,22.610592,Moses Simon,Nantes,"FW,MF"
+-1.9510934,36.573742,-14.118354,Charlie Cresswell,Toulouse,DF
+2.965916,-32.409985,20.127092,Arnaud Kalimuendo,Rennes,"FW,MF"
+13.017931,22.727163,-3.5632927,Pierre Ekwah Elimby,Saint,MF
+25.956823,-10.165326,15.109465,Diego Moreira,Strasbourg,"DF,MF"
+10.349972,-23.686584,14.399074,Evann Guessand,Nice,"FW,MF"
+4.437456,-33.1704,17.879358,Jonathan David,Lille,FW
+12.144651,25.69045,1.1085159,Facundo Medina,Lens,DF
+25.99648,-3.8076398,6.678892,Sergio Akieme,Reims,DF
+291.42844,-319.73325,-42.342052,Dilane Bakwa,Strasbourg,"MF,DF"
+1.8298199,30.925842,-10.955448,Mark McKenzie,Toulouse,DF
+1.2125344,-31.009724,2.9028544,Ludovic Ajorque,Brest,FW
+-3.147709,30.005894,-5.4166718,Clément Akpa,Auxerre,DF
+25.90052,17.597713,-5.601625,Adrien Rabiot,Marseille,MF
+26.377682,2.772227,9.351159,Loïc Nego,Le Havre,"DF,FW"
+17.13118,27.122114,-2.8367183,Michael Amir Murillo,Marseille,DF
+19.285679,9.802212,-8.743184,Hicham Boudaoui,Nice,MF
+-4.3991165,35.341885,-13.853579,Brendan Chardonnet,Brest,DF
+15.690308,-21.524921,18.086527,Maghnes Akliouche,Monaco,"FW,MF"
+10.666265,10.353997,8.123823,Vincent Sierro,Toulouse,MF
+7.877606,32.713017,-5.8219943,Thilo Kehrer,Monaco,DF
+13.672764,27.055548,-4.8914204,Clinton Mata,Lyon,DF
+9.4372635,33.54586,-10.441339,Mamadou Sarr,Strasbourg,DF
+19.29721,-0.41894844,24.52426,Téji Savanier,Montpellier,MF
+27.063225,-7.1702175,15.279232,Lorenz Assignon,Rennes,"DF,MF"
+10.070484,-15.032345,7.2797494,Habib Diarra,Strasbourg,"MF,FW"
+11.461152,22.249582,-0.55151,Pedro Chirivella,Nantes,MF
+9.931671,8.231543,-8.862378,Elisha Owusu,Auxerre,MF
+12.436947,-19.875563,15.81962,Yann Gboho,Toulouse,"MF,FW"
+23.411674,16.103294,-5.5952067,Corentin Tolisso,Lyon,MF
+13.6655855,10.058584,4.6029463,Abdoulaye Touré,Le Havre,MF
+7.40008,12.136922,-5.732841,Hugo Magnetti,Brest,MF
+1.7851009,30.605707,-18.899,Etienne Youte Kinkoue,Le Havre,DF
+14.638833,10.815965,-5.7009754,Douglas,Nantes,MF
+8.018342,27.345135,-15.469446,Mickael Nade,Saint,DF
+20.712254,-0.07652117,19.850649,Jonathan Clauss,Nice,"DF,MF"
+8.051741,-26.221752,12.189286,Lassine Sinayoko,Auxerre,"FW,MF"
+20.357761,-8.41126,24.964392,Ludovic Blas,Rennes,"MF,FW"
+-9.147253,-34.357414,12.986464,Emanuel Emegha,Strasbourg,FW
+30.27206,1.227835,11.93284,Gideon Mensah,Auxerre,DF
+13.814959,38.386047,-2.61407,Leonardo Balerdi,Marseille,DF
+6.562472,-15.4301815,18.944206,Takumi Minamino,Monaco,"MF,FW"
+16.837889,-16.551413,12.555431,Andy Diouf,Lens,MF
+5.100974,28.153576,-17.735985,Moïse Bombito,Nice,DF
+1.9247403,28.883904,-13.131623,Cédric Kipré,Reims,DF
+14.48469,-23.2943,20.970676,Bradley Barcola,Paris S,FW
+24.887783,2.922413,4.297533,Kelvin Amian,Nantes,DF
+23.440697,0.5756139,14.550633,Gabriel Suazo,Toulouse,DF
+14.201412,11.039261,-0.1577617,Denis Zakaria,Monaco,MF
+-4.3106046,28.902594,-8.85437,Modibo Sagnan,Montpellier,DF
+11.766671,34.148212,-8.902618,Willian Pacho,Paris S,DF
+31.88779,3.2788494,10.720531,Dennis Appiah,Saint,DF
+32.419888,-3.4930463,7.0475187,Ki-Jana Hoever,Auxerre,DF
+6.6082006,25.961193,-8.069893,Jonathan Gradit,Lens,DF
+11.24721,-7.411203,14.360992,Sebastian Nanasi,Strasbourg,"MF,FW"
+28.225018,5.986497,6.955656,Djibril Sidibé,Toulouse,DF
+13.409916,2.356193,-11.996955,Yassine Kechta,Le Havre,"MF,FW"
+6.598092,29.048225,-5.0999393,Wilfried Singo,Monaco,DF
+10.5494995,-17.412651,17.055054,Hamed Junior Traorè,Auxerre,MF
+13.736253,11.197653,-2.8833907,Azor Matusiwa,Rennes,MF
+21.378878,23.602732,-1.9445002,Achraf Hakimi,Paris S,DF
+32.093227,-4.073079,10.565207,Vanderson,Monaco,DF
+18.176088,1.9634165,19.7061,Lamine Camara,Monaco,MF
+2.242113,-35.688366,19.2468,Alexandre Lacazette,Lyon,FW
+24.044588,2.7689695,0.8228506,Nicolas Cozza,Nantes,"DF,MF"
+15.484941,19.039034,-1.6856602,Warren Zaïre-Emery,Paris S,"MF,DF"
+9.366071,2.8115325,-6.8896675,Johann Lepenant,Nantes,MF
+27.546715,0.21047336,6.156982,Carlens Arcus,Angers,DF
+16.729748,20.817959,2.4779124,Vitinha,Paris S,MF
+13.773969,-8.4719515,21.247452,Rayan Cherki,Lyon,"FW,MF"
+12.487641,30.432873,-5.8979807,Geoffrey Kondogbia,Marseille,"DF,MF"
+-6.8631415,33.38076,-11.469117,Nicolas Pallois,Nantes,DF
+-0.6129819,30.82444,-20.6269,Dylan Batubinsika,Saint,DF
+10.601616,34.63467,-3.9398167,Lucas Beraldo,Paris S,DF
+10.827078,19.637253,-1.0129021,Nemanja Matić,Lyon,MF
+4.3496194,-25.340866,9.541575,Josué Casimir,Le Havre,"FW,MF"
+31.746965,4.5030155,5.8178163,Ainsley Maitland-Niles,Lyon,DF
+22.691786,0.03381383,4.067732,Aurélio Buta,Reims,DF
+3.6917846,26.311867,-8.923476,Dante,Nice,DF
+12.40601,5.0294657,-8.381989,Jean-Eudes Aholou,Angers,MF
+-6.7712994,32.413982,-15.114702,Sinaly Diomande,Auxerre,DF
+32.851856,-6.046208,7.6594186,Melvin Bard,Nice,"DF,MF"
+7.7269397,27.28924,-10.844127,Youssouf Ndayishimiye,Nice,DF
+24.119959,-0.262066,17.208433,Caio Henrique Oliveira Silva,Monaco,DF
+29.156746,6.2741737,11.868434,Thomas Meunier,Lille,DF
+21.897715,18.174652,-0.6098136,Fabián Ruiz Peña,Paris S,MF
+3.156395,-20.694267,14.612525,Issa Soumaré,Le Havre,"FW,MF"
+22.04338,5.5164204,-1.6247076,Nicolás Tagliafico,Lyon,DF
+1.9228598,-28.305695,10.6045885,Zakaria Aboukhlal,Toulouse,"MF,FW"
+25.871975,0.013200328,3.4027967,Enzo Tchato,Montpellier,DF
+11.42278,-8.718903,5.382232,Farid El Melali,Angers,FW
+0.08521571,11.361649,-7.072616,Joris Chotard,Montpellier,MF
+0.8564923,-32.07999,8.711747,Lucas Stassin,Saint,FW
+20.39504,18.015055,-2.734888,João Neves,Paris S,"MF,DF"
+2.9115474,-30.58585,6.5572658,Breel Embolo,Monaco,"FW,MF"
+1.7142296,-32.652866,15.267697,Gaëtan Laborde,Nice,FW
+32.941715,-7.343398,4.4073687,Deiver Machado,Lens,"DF,MF"
+-12.794035,26.171404,-17.21284,Becir Omeragic,Montpellier,DF
+3.8048697,-5.4617906,2.9632552,Florian Sotoca,Lens,"FW,MF"
+5.882281,10.607815,-8.142084,Haris Belkebla,Angers,MF
+23.324112,-3.5971713,7.5464697,Gabriel Gudmundsson,Lille,DF
+7.297873,-2.7033846,-0.06061612,Félix Lemaréchal,Strasbourg,"MF,FW"
+-4.5726657,16.40171,-3.7483242,Pablo Rosario,Nice,"MF,DF"
+8.010824,11.529797,-0.60738295,Jordan Ferri,Montpellier,MF
+5.2778063,7.136339,-0.37399912,Benjamin Bouchouari,Saint,MF
+10.7713,-5.022505,6.8169584,Hákon Arnar Haraldsson,Lille,"MF,FW"
+0.22947423,-21.983004,8.568381,Jim Allevinah,Angers,FW
+13.080405,-14.755512,15.618426,Eliesse Ben Seghir,Monaco,"MF,FW"
+3.7877626,21.33522,-6.669358,Aïssa Mandi,Lille,DF
+15.9797535,-21.8642,22.862776,Ousmane Dembélé,Paris S,FW
+13.032508,-26.326828,12.825476,Désiré Doué,Paris S,"FW,MF"
+8.169103,32.710346,-1.3702294,Marquinhos,Paris S,DF
+-2.6610177,28.138302,-11.166162,Abdoulaye Niakhate Ndiaye,Brest,DF
+0.9853657,25.879059,-15.388397,Joseph Okumu,Reims,DF
+-9.242527,-31.084322,-1.3599406,Marshall Munetsi,Reims,MF
+13.607778,2.4230921,-8.117008,Rabby Nzingoula,Montpellier,MF
+6.349387,23.023335,-6.8710146,Hans Hateboer,Rennes,DF
+31.871906,-6.777287,1.0109107,Massadio Haïdara,Brest,DF
+21.58071,-5.464343,11.208914,Nuno Mendes,Paris S,DF
+-2.2264442,-27.812778,7.696263,Joshua King,Toulouse,"FW,MF"
+13.691787,-8.785856,15.801535,Lee Kang-in,Paris S,"FW,MF"
+-14.243506,21.775927,-10.4111805,Gabriel Osho,Auxerre,DF
+-9.546882,-29.649878,8.49581,Esteban Lepaul,Angers,FW
+-6.18778,-29.606888,10.448717,Oumar Diakité,Reims,FW
+4.861761,-17.514336,12.469232,Mohamed Ali Cho,Nice,"FW,MF"
+15.344581,-2.685348,7.8559313,Quentin Merlin,Marseille,DF
+6.5968165,-18.499722,10.552852,Malick Fofana,Lyon,FW
+9.603199,7.690757,8.618895,Neil El Aynaoui,Lens,MF
+-11.534408,24.251446,-7.624789,Duje Ćaleta-Car,Lyon,DF
+7.258001,-0.17906596,12.1482725,Mathias Pereira Lage,Brest,"FW,MF"
+9.892239,14.981344,-6.350763,Valentin Rongier,Marseille,"MF,DF"
+0.86929196,13.07018,-1.9022274,Jordan Veretout,Lyon,MF
+6.104936,15.196745,-1.793248,Pierre Lees-Melou,Brest,MF
+4.9528093,2.0153956,-8.289375,Yassin Belkhdim,Angers,MF
+-6.930765,-33.18927,5.4710717,Frank Magri,Toulouse,"FW,MF"
+-7.5686026,23.27545,-9.871332,Nathan Zeze,Nantes,DF
+-18.640724,19.617672,-7.5621233,Abdoulaye Bamba,Angers,DF
+-4.6303883,22.140993,-10.244573,Christian Mawissa,Monaco,DF
+-2.057489,-18.992876,-2.816802,Tanguy Coulibaly,Montpellier,"FW,MF"
+-10.03402,-31.392965,11.945465,M'Bala Nzola,Lens,FW
+5.1071453,1.2896976,-1.5877311,Kévin Danois,Auxerre,MF
+-9.862223,29.258554,-16.18498,Christopher Wooh,Rennes,DF
+-9.692215,-28.497292,2.2084045,André Ayew,Le Havre,FW
+3.22077,-31.180351,13.055941,Georges Mikautadze,Lyon,FW
+0.5199047,22.810373,-16.94414,Derek Cornelius,Marseille,DF
+-0.73741186,-0.25754902,12.962648,Anass Zaroury,Lens,"FW,MF"
+16.353561,-2.8875754,1.6699474,Ali Abdi,Nice,"DF,MF"
+17.252705,0.16651036,7.3258524,Przemysław Frankowski,Lens,DF
+-6.5679674,17.367968,-15.954437,Malang Sarr,Lens,DF
+-9.224309,24.971878,-17.377232,Julien Le Cardinal,Brest,DF
+-17.452835,14.435791,-13.642739,Emmanuel Biumla,Angers,DF
+-20.996857,4.434714,11.994119,Kamory Doumbia,Brest,"MF,FW"
+2.6483474,3.1337285,10.047892,Sorba Thomas,Nantes,"FW,MF"
+-3.903631,1.8321725,-18.590454,Lilian Raolisoa,Angers,"DF,FW"
+1.3816667,6.6224747,-11.685422,Amadou Koné,Reims,MF
+3.5104017,-14.429554,11.3939705,Osame Sahraoui,Lille,"FW,MF"
+1.4046726,10.515897,-1.1075392,André Gomes,Lille,MF
+-3.0383053,14.158465,-10.509366,Emmanuel Agbadou,Reims,DF
+7.0307646,4.0179753,9.820713,Romain Del Castillo,Brest,FW
+-5.008804,-29.79619,4.205892,Mostafa Mohamed,Nantes,FW
+1.2111393,12.48749,2.086665,Florian Tardieu,Saint,MF
+-8.298363,19.201387,-6.27635,Arouna Sangante,Le Havre,DF
+-6.9354873,-29.319063,6.8590264,Abdallah Sima,Brest,"FW,MF"
+-2.6745,9.347908,-4.9177856,Tanner Tessmann,Lyon,MF
+-7.824465,17.58885,-12.781552,Lilian Brassier,Rennes,DF
+-24.857796,10.480102,-8.77433,Falaye Sacko,Montpellier,DF
+-1.1295319,-36.04839,11.283811,Mika Biereth,Monaco,FW
+-10.411191,20.711128,-9.680349,Leo Skiri Østigård,Rennes,DF
+-0.38388938,2.540752,-6.620166,Ngal'Ayel Mukau,Lille,MF
+-7.628778,-21.616638,2.370019,Shavy Babicka,Toulouse,"MF,FW"
+-0.13659935,1.4261607,-1.3143519,Jordan James,Rennes,MF
+-1.7363724,2.861195,12.79822,Christopher Operi,Le Havre,"DF,FW"
+-5.7922497,-15.32175,2.4326446,Arnaud Nordin,Montpellier,FW
+-9.993033,-0.4299193,-4.052227,Nhoa Sangui,Reims,"DF,MF"
+-2.374802,3.2404783,-11.427776,Valentín Barco,Strasbourg,"MF,DF"
+-16.173489,-6.1743836,-13.776627,Issiaga Sylla,Montpellier,DF
+4.676257,-0.8247668,1.9755723,Aleksandr Golovin,Monaco,"MF,FW"
+1.9773226,0.39011398,-7.639332,Ayyoub Bouaddi,Lille,MF
+-5.080169,-26.28475,8.464563,Mama Samba Baldé,Brest,FW
+3.2526274,-1.7435582,9.087835,Mitchel Bakker,Lille,"FW,DF"
+-7.3992558,-9.901374,-7.6705127,Tanguy Ndombele,Nice,MF
+-15.537035,3.903214,-12.005792,Mory Gbane,Reims,"DF,MF"
+17.483261,-0.6100357,3.9149477,Ruben Aguilar,Lens,"DF,MF"
+-1.2797154,6.796594,-4.9892726,Djaoui Cissé,Rennes,MF
+-13.812077,-3.7937422,8.277683,Wahbi Khazri,Montpellier,"FW,MF"
+-0.023158379,-18.477694,6.6972547,Musa Al-Taamari,Montpellier,"FW,MF"
+-12.574861,-6.214099,-11.188644,Timothee Pembele,Le Havre,DF
+-12.953169,2.9336634,-9.551204,Jaydee Canvot,Toulouse,"DF,MF"
+-18.661083,3.4263983,-13.719921,Edimilson Fernandes,Brest,"MF,DF"
+-5.303622,-16.121326,9.183984,Badredine Bouanani,Nice,"MF,FW"
+-70.42115,-8.194522,-6.8714185,Abner,Lyon,DF
+-10.456692,19.902632,-13.487055,Kevin Danso,Lens,DF
+-24.339403,-24.40858,9.845691,Akor Adams,Montpellier,FW
+-1.5611079,-37.338783,13.387348,Gonçalo Ramos,Paris S,FW
+-5.310114,-19.833765,5.7151737,Matias Fernandez-Pardo,Lille,"FW,MF"
+3.8722565,-6.7100635,9.820309,Sofiane Diop,Nice,"MF,FW"
+-11.432553,-18.921686,10.319447,Irvin Cardona,Saint,FW
+-19.77482,-12.5437,-12.688131,Rassoul Ndiaye,Le Havre,MF
+-1.214786,-13.638027,7.4932117,Jeremie Boga,Nice,"MF,FW"
+-3.6216567,-15.437197,0.21558185,Ernest Nuamah,Lyon,"FW,MF"
+-6.1144233,-19.358145,14.28833,Amine Gouiri,Marseille,"FW,MF"
+-23.37575,1.945542,5.8144407,Han-Noah Massengo,Auxerre,MF
+2.908964,-2.7232263,5.986166,Angelo Fulgini,Lens,"MF,FW"
+2.284335,1.8994025,-4.360402,Louis Mouton,Saint,MF
+-12.584353,-21.992067,-4.450157,Neal Maupay,Marseille,FW
+-9.426693,-5.625075,-6.9584255,Aimen Moueffek,Saint,MF
+-20.03505,19.583221,-9.99717,Yunis Abdelhamid,Saint,DF
+-3.6551547,0.80848575,-6.3379984,Khalil Fayad,Montpellier,"MF,FW"
+1.6906102,4.95475,-8.376038,Soungoutou Magassa,Monaco,MF
+-9.95829,18.035025,-9.198026,Mohammed Salisu,Monaco,DF
+-10.585898,-8.290175,-11.178422,Warren Kamanzi,Toulouse,"DF,MF"
+-14.408877,14.207811,-12.490721,Saidou Sow,Strasbourg,DF
+-16.725567,-6.3301077,-9.70829,Théo Sainte-Luce,Montpellier,DF
+7.9994755,-1.4352326,7.900795,Rémy Cabella,Lille,"FW,MF"
+-1.1646945,2.260302,-14.758657,Paul Joly,Auxerre,DF
+-14.545488,-8.676118,-2.8689177,Oussama Targhalline,Le Havre,MF
+-4.1403446,-10.675853,7.513058,Edon Zhegrova,Lille,"FW,MF"
+-0.27451426,4.7168126,11.339097,Yanis Zouaoui,Le Havre,"DF,FW"
+-13.5880785,6.255267,-16.38402,Abdukodir Khusanov,Lens,DF
+-13.841765,17.019577,-9.990566,Anthony Rouault,Rennes,DF
+-10.5385065,-23.290792,-1.5879002,Ado Onaiwu,Auxerre,"MF,FW"
+-9.404651,0.32789153,-12.67044,Junior Mwanga,Le Havre,MF
+-1.2311885,-1.3749642,4.2071533,Thiago Almada,Lyon,"MF,FW"
+-11.24474,-2.6580124,-8.197938,Sael Kumbedi,Lyon,DF
+-7.727697,3.7330172,-17.33726,Marcus Coco,Nantes,DF
+-12.652449,29.843111,-16.56911,Abakar Sylla,Strasbourg,DF
+-16.278103,13.580188,-9.42976,Yael Mouanga,Montpellier,DF
+-0.8927276,-13.933514,2.1531966,Antoine Joujou,Le Havre,"MF,FW"
+-22.384573,-26.875566,6.324828,Ibrahima Niane,Angers,FW
+-16.27651,-25.713326,5.0286317,Theo Bair,Auxerre,FW
+-10.654927,-10.508383,-13.760252,Ulisses Garcia,Marseille,DF
+-12.928144,6.4198976,-7.9454007,Jérémy Jacquet,Rennes,DF
+-20.729897,1.7313042,-13.047264,Baptiste Santamaria,Nice,MF
+-3.9430773,-13.791242,11.880284,Khvicha Kvaratskhelia,Paris S,FW
+-12.060703,-22.018368,1.4834963,Wesley Saïd,Lens,FW
+15.500505,2.1175663,1.7477605,Ismaily,Lille,DF
+-7.378267,-15.623045,5.7801037,Romain Faivre,Brest,"MF,FW"
+-14.203932,-2.1807692,-3.7978013,Hiroki Sekine,Reims,DF
+-14.851758,-23.631592,11.247513,Goduine Koyalipou,Lens,FW
+-15.725106,25.422195,-18.827341,Lucas Hernández,Paris S,DF
+-18.818913,-9.729241,-4.824308,Mathis Amougou,Saint,MF
+0.5543905,-16.059464,5.094214,Mamadou Diakhon,Reims,"FW,MF"
+-18.933372,11.1251,-7.2682424,Mohamed Abdelmoneim,Nice,DF
+-20.311255,-21.14069,1.9151675,Koka,Le Havre,FW
+-3.0706835,0.07488654,-21.455114,Zinedine Ferhat,Angers,"FW,MF"
+-10.622378,-7.530939,3.2577877,Seko Fofana,Rennes,MF
+-12.391276,0.15314816,-9.2555275,Antoine Mendy,Nice,DF
+-12.138719,-26.04863,2.4333081,Ibrahim Sissoko,Saint,FW
+-11.430713,-13.462232,-4.8906035,Louis Leroux,Nantes,"MF,DF"
+-11.786581,-10.90418,8.239266,Albert Grønbaek,Rennes,"MF,FW"
+-8.086838,-13.131418,-4.0936775,Senny Mayulu,Paris S,MF
+-3.5001585,-18.566431,11.136331,Jonathan Rowe,Marseille,"FW,MF"
+-16.723724,1.3363292,-6.254754,Alidu Seidu,Rennes,DF
+-20.784163,16.322355,-10.665005,Yoann Salmier,Le Havre,DF
+-18.376455,-0.8589954,-7.1542006,Yvann Macon,Saint,DF
+-23.257826,0.19280039,-11.4692335,Jordan Amavi,Brest,DF
+-22.411577,-12.520698,-10.047226,Tom Louchet,Nice,"DF,MF"
+-15.484332,-21.65694,5.3073707,Sekou Mara,Strasbourg,"FW,MF"
+-15.975694,10.500339,1.1104017,Maxime Bernauer,Saint,DF
+-18.517601,12.418212,0.92858684,Boubakar Kouyaté,Montpellier,DF
+-15.27159,1.3129985,7.814728,Teddy Teuma,Reims,MF
+-19.973637,-11.540619,3.354353,Angel Gomes,Lille,MF
+-7.3613663,-10.02298,7.4778066,Saïd Benrahma,Lyon,"FW,MF"
+-12.434187,-18.869972,5.7763677,Augustine Boakye,Saint,"FW,MF"
+-17.078896,-4.9467564,4.914693,Mathieu Cafaro,Saint,"MF,FW"
+-21.828444,-3.9696686,1.6215723,Rayan Raveloson,Auxerre,"MF,DF"
+-21.20281,-21.051085,10.342806,George Ilenikhena,Monaco,FW
+-17.83983,-4.678781,-2.2408206,Lucas Mincarelli,Montpellier,DF
+-23.846916,-7.2801747,-5.8200364,Jacques Ekomie,Angers,"DF,FW"
+-11.117254,5.9130764,-15.329743,Mikayil Ngor Faye,Rennes,DF
+-14.633718,11.020019,-9.547721,Abdulai Juma Bah,Lens,DF
+-31.550215,-0.57481956,-5.0493603,Pol Lirola,Marseille,DF
+-24.599272,-4.9291897,0.13303737,Assane Dioussé,Auxerre,MF
+-17.409586,-14.814207,-2.0307984,Glen Kamara,Rennes,MF
+-15.382318,-18.74349,3.3210435,Emmanuel Sabbi,Le Havre,"FW,MF"
+-20.22588,2.8931875,8.45383,Ismaël Bennacer,Marseille,MF
+-23.110374,-23.616907,4.5843134,Chuba Akpom,Lille,FW
+-23.786308,-11.805056,-6.9834886,Luck Zogbé,Brest,DF
+-16.915024,-13.207016,10.4438,Rémy Labeau Lascary,Lens,"FW,MF"
+-15.2809515,-12.674438,7.2407985,Yaya Kader Fofana,Reims,"MF,FW"
+-29.79827,1.2584727,-4.6220727,Rasmus Nicolaisen,Toulouse,DF
+-11.88486,-17.206656,14.146888,Marco Asensio,Paris S,"FW,MF"
+-16.171335,-21.380049,10.314574,Folarin Balogun,Monaco,FW
+-18.036455,-25.528385,0.4831726,Andy Delort,Montpellier,FW
+-16.753563,-4.3448806,1.2671759,Jhoanner Chávez,Lens,"DF,MF"
+-23.649977,7.2539196,-4.7521086,Fodé Ballo-Touré,Le Havre,"DF,MF"
+-24.238197,0.38365486,3.5786657,Nampalys Mendy,Lens,MF
+-20.469599,-8.244436,-2.6504393,Mahamadou Diawara,Le Havre,MF
+-23.67813,0.5979064,-2.787712,Nikola Maksimović,Montpellier,DF
+-23.08616,9.286158,-6.2844243,Pierre Cornud,Saint,DF
+-17.983828,-23.216707,3.3412104,Florian Ayé,Auxerre,FW
+-20.727943,-19.281908,12.869374,Elye Wahi,Marseille,FW
+-18.215681,-10.469218,-0.405896,Maxence Caqueret,Lyon,MF
+-16.924612,-16.352972,-5.695433,Jordan Teze,Monaco,DF
+-22.834953,-2.1541185,-1.2480239,Daler Kuzyaev,Le Havre,MF
+-22.753443,-9.705896,-3.844598,John Joe,Reims,MF
+-19.459675,-19.374147,8.391164,Mohamed Meité,Rennes,FW
+-20.352879,12.873317,-0.9937645,Andrew Omobamidele,Strasbourg,DF
+-20.376974,-3.2130191,-4.374552,Jean-Kevin Duverne,Nantes,DF
+-23.49058,-21.252808,6.498898,Bamba Dieng,Angers,FW
+-16.574396,-15.163999,4.1488247,Ben Old,Saint,"FW,MF"
+-22.427063,-11.359313,5.3199863,Amine Harit,Marseille,MF
+-17.821068,-17.746786,-0.26548463,Tino Kadewere,Nantes,"MF,FW"
+-18.668291,-4.7940903,-7.710664,Krépin Diatta,Monaco,"DF,FW"
