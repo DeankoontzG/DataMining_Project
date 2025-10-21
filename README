@@ -16,3 +16,11 @@ Choisir quelle methodes de clusterings utiliser et en faire une chacun : (DBScan
 
 - Chacun utilise les jeux de donnees `(joueurs_ligue1_2024_2025_clean_per90.csv` et `joueurs_ligue1_2024_2025_clean_raw.csv`) pour faire la dimension reduction et du coup créer des "jeux de donnees reduits" associes a chaque methode de reduction de dimension (PCA, t-SNE, UMAP et ISOMap).
 - Pour le clustering on applique les differentes methodes sur les jeux de donnees reduits.
+
+
+OBJECTIF RAPPORT : 
+1 . Choix de la méthode de réduction de dimension : 
+Métriques de comparaison : 
+- Silouhette score [-1,1]. Plus c'est grand mieux c'est, mesure la compacité et la séparation des clusters.
+- Davies-Bouldin Index. Plus c’est faible, mieux c’est (mesure la similarité intra/inter-cluster).
+- Calinski-Harabasz Index. Plus c’est élevé, mieux c’est. Mesure la dispersion intra/inter-cluster.
