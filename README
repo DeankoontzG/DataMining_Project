@@ -19,7 +19,14 @@ Choisir quelle methodes de clusterings utiliser et en faire une chacun : (DBScan
 
 
 OBJECTIF RAPPORT : 
-1 . Choix de la méthode de réduction de dimension : 
+1 . Comparaison des méthodes de dim reduction : 
+Métriques :
+- Trustworthiness. Mesure à quel point les voisins proches dans l’espace réduit étaient aussi voisins dans l’espace d’origine. [0;1], plus c'est grand mieux c'est. sklearn.manifold.trustworthiness
+- Continuity, L’inverse du "trustworthiness" : est-ce que les vrais voisins (dans l’espace original) ont été préservés dans l’espace réduit ? Complémentaire askip
+- distance_correlation: correlation of distances between spaces (-1 to 1)
+- Mean Relative Rank Error (MRRE) : Moyenne de l’écart de rang entre les voisins dans les deux espaces.
+
+2 . Comparaison des méthodes de clustering : 
 Métriques de comparaison : 
 - Silouhette score [-1,1]. Plus c'est grand mieux c'est, mesure la compacité et la séparation des clusters.
 - Davies-Bouldin Index. Plus c’est faible, mieux c’est (mesure la similarité intra/inter-cluster).
