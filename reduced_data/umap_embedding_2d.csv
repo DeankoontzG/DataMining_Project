@@ -1,0 +1,357 @@
+player_name,equipe,positions,age,player_id,player_country_code,UMAP_1,UMAP_2
+Gautier Larsonneur,Saint,GK,27.0,b49729cb,FRA,17.833883,-15.125743
+Jordan Lefort,Angers,DF,30.0,c3e4ecbb,FRA,21.3598,2.38334
+Gerónimo Rulli,Marseille,GK,32.0,625c144a,ARG,17.669912,-14.755573
+Lucas Chevalier,Lille,GK,22.0,b3d76d84,FRA,17.656578,-15.34491
+Marcin Bułka,Nice,GK,24.0,db87a2c4,POL,17.375772,-14.881206
+Yehvann Diouf,Reims,GK,24.0,eedea60b,SEN,18.162212,-14.946515
+Lucas Perri,Lyon,GK,26.0,5dbd461a,BRA,17.265705,-14.902235
+Yahia Fofana,Angers,GK,23.0,9d420dad,CIV,17.792536,-14.784134
+Marco Bizot,Brest,GK,33.0,3d214e5f,NED,17.438717,-15.079793
+Donovan Léon,Auxerre,GK,31.0,51c83a90,GUF,18.277266,-15.046419
+Andrey Santos,Strasbourg,MF,20.0,dd745366,BRA,24.35176,5.6263866
+Valentin Atangana Edoa,Reims,MF,18.0,6b5edd5d,FRA,25.10373,4.8053904
+Himad Abdelli,Angers,"MF,FW",24.0,7978cbf0,ALG,23.737099,6.261728
+Mason Greenwood,Marseille,"FW,MF",22.0,58eee997,ENG,23.783756,8.651746
+Đorđe Petrović,Strasbourg,GK,24.0,0cf321c8,SRB,18.118347,-14.66918
+Zuriko Davitashvili,Saint,"FW,MF",23.0,88b4d2e3,GEO,24.495342,8.166515
+Gautier Lloris,Le Havre,DF,29.0,ac89503b,FRA,21.43288,2.2086003
+Matthis Abline,Nantes,FW,21.0,0e46fa2f,FRA,25.85511,8.615438
+Bafodé Diakité,Lille,DF,23.0,1bfb6fef,FRA,20.641203,3.8820868
+Adrien Truffert,Rennes,"DF,MF",22.0,5d0e0a1f,FRA,23.275375,6.5266333
+Moussa Niakhate,Lyon,DF,28.0,00242715,SEN,21.244493,3.9600093
+Guela Doué,Strasbourg,DF,21.0,b4ef3fb5,CIV,21.981869,4.1778007
+Alexsandro Ribeiro,Lille,DF,24.0,102c9665,BRA,20.889603,4.346001
+Benjamin Lecomte,Montpellier,GK,33.0,2fa2a875,FRA,18.00317,-15.0639925
+Cristian Cásseres Jr.,Toulouse,MF,24.0,f86fe8c1,VEN,23.81116,5.75836
+Benjamin André,Lille,MF,33.0,ef9c1c95,FRA,23.09468,5.0134416
+Gaëtan Perrin,Auxerre,"MF,FW",28.0,10dd88f9,FRA,23.493023,7.852479
+Junya Ito,Reims,"FW,MF",31.0,dbd3a428,JPN,23.53712,7.517342
+Aron Dønnum,Toulouse,"DF,MF",26.0,10cff752,NOR,23.475815,6.991415
+Kenny Lala,Brest,DF,32.0,770d7eb8,MAD,23.341915,4.4439416
+Florent Hanin,Angers,DF,34.0,6bfb4303,ALG,23.741657,3.9003057
+Pierre Højbjerg,Marseille,MF,28.0,8b04d6c1,DEN,21.325876,5.3800907
+Mahdi Camara,Brest,"MF,FW",26.0,8577e60a,FRA,24.77467,6.1838493
+Keito Nakamura,Reims,"FW,MF",24.0,d97af612,JPN,25.277025,8.430164
+Jubal,Auxerre,DF,30.0,56ae428b,BRA,21.329432,1.8027352
+Ismaël Doukouré,Strasbourg,"DF,MF",21.0,0512a60a,FRA,20.673584,2.7709556
+Léo Pétrot,Saint,DF,27.0,00638016,FRA,24.248034,2.9884543
+Jean-Charles Castelletto,Nantes,"DF,MF",29.0,e0f3a1f6,CMR,21.336962,1.6487414
+Adrien Thomasson,Lens,MF,30.0,c76b7567,FRA,23.019619,5.990752
+Luis Henrique,Marseille,"DF,FW",22.0,f36d5624,BRA,23.98075,7.642513
+Moses Simon,Nantes,"FW,MF",29.0,5f3eaaf5,NGA,24.283136,8.154426
+Charlie Cresswell,Toulouse,DF,21.0,4654e5f5,ENG,21.03005,2.4627633
+Arnaud Kalimuendo,Rennes,"FW,MF",22.0,bf4c41f9,FRA,25.598938,8.863611
+Pierre Ekwah Elimby,Saint,MF,22.0,830371be,FRA,23.333393,4.72538
+Diego Moreira,Strasbourg,"DF,MF",19.0,12de1b0d,BEL,24.147821,6.910081
+Evann Guessand,Nice,"FW,MF",23.0,b73f17f8,CIV,24.741547,8.829082
+Jonathan David,Lille,FW,24.0,ce50fd99,CAN,25.459497,8.955564
+Guillaume Restes,Toulouse,GK,19.0,6b91b999,FRA,17.437155,-15.246857
+Facundo Medina,Lens,DF,25.0,6f5ec8bb,ARG,22.043676,4.3911047
+Sergio Akieme,Reims,DF,26.0,06efa9dc,ESP,24.514526,3.1763856
+Dilane Bakwa,Strasbourg,"MF,DF",21.0,2b5a35e5,FRA,23.740568,8.199919
+Mark McKenzie,Toulouse,DF,25.0,a5f5d094,USA,21.44665,2.6474612
+Ludovic Ajorque,Brest,FW,30.0,462475ed,FRA,26.64438,8.52852
+Clément Akpa,Auxerre,DF,22.0,0abb5072,CIV,21.878902,2.5452979
+Adrien Rabiot,Marseille,MF,29.0,8794e251,FRA,22.310053,6.290092
+Loïc Nego,Le Havre,"DF,FW",33.0,c3b6fa1e,HUN,24.208605,3.597611
+Michael Amir Murillo,Marseille,DF,28.0,349cae8f,PAN,21.924591,5.015448
+Hicham Boudaoui,Nice,MF,24.0,f9d5908e,ALG,24.112173,5.8818126
+Brendan Chardonnet,Brest,DF,29.0,16aa7d4c,FRA,21.086329,2.0124438
+Maghnes Akliouche,Monaco,"FW,MF",22.0,b625b241,FRA,23.651596,8.677201
+Vincent Sierro,Toulouse,MF,28.0,92ffb8f9,SUI,23.460016,6.575271
+Thilo Kehrer,Monaco,DF,27.0,51dbeea9,GER,20.69772,3.7978013
+Clinton Mata,Lyon,DF,31.0,55abe554,ANG,21.6701,4.164265
+Mamadou Sarr,Strasbourg,DF,18.0,61f80c89,FRA,20.728165,3.3887322
+Téji Savanier,Montpellier,MF,32.0,6bde367b,FRA,23.332104,7.2186737
+Lorenz Assignon,Rennes,"DF,MF",24.0,b026bbf6,TOG,23.222725,6.0506616
+Habib Diarra,Strasbourg,"MF,FW",20.0,6d0fe035,SEN,24.501167,6.600422
+Pedro Chirivella,Nantes,MF,27.0,68a26d51,ESP,22.444677,4.578525
+Elisha Owusu,Auxerre,MF,26.0,e2781082,GHA,24.948744,4.914442
+Yann Gboho,Toulouse,"MF,FW",23.0,6be41a31,FRA,24.70225,8.544265
+Corentin Tolisso,Lyon,MF,29.0,652d4c37,FRA,22.237799,5.898184
+Abdoulaye Touré,Le Havre,MF,30.0,ef7cd87a,GUI,24.69328,5.828358
+Hugo Magnetti,Brest,MF,26.0,d4d35152,FRA,24.643583,4.6202464
+Etienne Youte Kinkoue,Le Havre,DF,22.0,12a4e38c,FRA,21.383484,1.6561366
+Douglas,Nantes,MF,27.0,301c287b,BRA,24.372026,5.239972
+Mickael Nade,Saint,DF,25.0,a6b6fa6e,FRA,21.07259,2.0973022
+Jonathan Clauss,Nice,"DF,MF",31.0,5219ab4a,FRA,22.977283,7.1981254
+Lassine Sinayoko,Auxerre,"FW,MF",24.0,5e5249c8,MLI,25.018763,8.564573
+Ludovic Blas,Rennes,"MF,FW",26.0,6191093d,FRA,24.043533,7.7893214
+Emanuel Emegha,Strasbourg,FW,21.0,a0c590b9,NED,25.815203,9.421481
+Gideon Mensah,Auxerre,DF,26.0,9bdd8118,GHA,23.672867,4.053858
+Leonardo Balerdi,Marseille,DF,25.0,7c3ed041,ARG,21.076252,4.4091554
+Takumi Minamino,Monaco,"MF,FW",29.0,f833a830,JPN,24.813251,8.812995
+Andy Diouf,Lens,MF,21.0,9b5237b1,FRA,24.488203,7.215137
+Moïse Bombito,Nice,DF,24.0,c2f23fc8,CAN,20.733273,3.2780633
+Cédric Kipré,Reims,DF,27.0,9f30e7ed,CIV,20.936413,2.6034117
+Bradley Barcola,Paris S,FW,21.0,a0d55a09,FRA,23.787258,9.085367
+Kelvin Amian,Nantes,DF,26.0,bcc81786,FRA,24.817385,3.4142442
+Gabriel Suazo,Toulouse,DF,26.0,39b326ed,CHI,22.948149,6.616907
+Denis Zakaria,Monaco,MF,27.0,384d58d9,SUI,24.108006,5.454762
+Modibo Sagnan,Montpellier,DF,25.0,76d679c7,MLI,21.793201,2.0180507
+Willian Pacho,Paris S,DF,22.0,ecbe2839,ECU,20.890505,4.235593
+Dennis Appiah,Saint,DF,32.0,feb5d3ab,FRA,24.026505,3.3237965
+Ki-Jana Hoever,Auxerre,DF,22.0,9a71e978,NED,23.71927,4.307281
+Jonathan Gradit,Lens,DF,31.0,06c48679,FRA,21.793602,3.3795981
+Sebastian Nanasi,Strasbourg,"MF,FW",22.0,ce747d2a,SWE,23.574112,7.913544
+Djibril Sidibé,Toulouse,DF,32.0,4c5b714f,FRA,23.051962,4.3273
+Yassine Kechta,Le Havre,"MF,FW",22.0,abefc3af,MAR,25.266916,5.577893
+Wilfried Singo,Monaco,DF,23.0,8b609c34,CIV,21.549034,3.7882478
+Hamed Junior Traorè,Auxerre,MF,24.0,570bb4b9,CIV,24.680336,8.037173
+Gianluigi Donnarumma,Paris S,GK,25.0,08f5afaa,ITA,17.569967,-15.293123
+Azor Matusiwa,Rennes,MF,26.0,a17a94d6,NED,24.155256,5.101262
+Achraf Hakimi,Paris S,DF,25.0,e42d61c7,MAR,21.753439,5.9056973
+Vanderson,Monaco,DF,23.0,ee45fd85,BRA,23.062366,5.243581
+Lamine Camara,Monaco,MF,20.0,19c2ffa4,SEN,22.93448,6.8447733
+Alexandre Lacazette,Lyon,FW,33.0,9dbb75ca,FRA,25.588388,9.365798
+Nicolas Cozza,Nantes,"DF,MF",25.0,8f325097,FRA,25.01033,3.756984
+Warren Zaïre-Emery,Paris S,"MF,DF",18.0,6b9960cf,FRA,21.63527,5.3313837
+Johann Lepenant,Nantes,MF,21.0,1e52971c,FRA,24.978533,5.526157
+Carlens Arcus,Angers,DF,28.0,5e837126,HAI,24.321259,3.7548366
+Vitinha,Paris S,MF,24.0,3b029691,POR,21.382996,5.263314
+Rayan Cherki,Lyon,"FW,MF",20.0,b34c63a5,FRA,23.09836,8.267018
+Geoffrey Kondogbia,Marseille,"DF,MF",31.0,cce181df,CTA,21.354656,4.625329
+Nicolas Pallois,Nantes,DF,36.0,779847d6,FRA,21.573872,1.7533481
+Dylan Batubinsika,Saint,DF,28.0,37d39918,COD,21.04101,2.116802
+Lucas Beraldo,Paris S,DF,20.0,b8aedf06,BRA,20.923056,4.651653
+Nemanja Matić,Lyon,MF,35.0,eb7822d7,SRB,22.14882,4.811926
+Josué Casimir,Le Havre,"FW,MF",22.0,481f76cf,FRA,25.212044,8.059991
+Ainsley Maitland-Niles,Lyon,DF,26.0,e3a5814e,ENG,22.707882,5.468311
+Aurélio Buta,Reims,DF,27.0,b4705807,POR,24.556786,3.7113822
+Dante,Nice,DF,40.0,fd2bc67d,BRA,21.112059,3.6785078
+Jean-Eudes Aholou,Angers,MF,30.0,48b28bfd,CIV,25.088737,5.2836328
+Sinaly Diomande,Auxerre,DF,23.0,6de23ab0,CIV,21.001492,1.8110355
+Melvin Bard,Nice,"DF,MF",23.0,1ddbc7ca,FRA,22.895744,4.8466835
+Youssouf Ndayishimiye,Nice,DF,25.0,65c55288,BDI,20.571486,3.6936507
+Caio Henrique Oliveira Silva,Monaco,DF,27.0,30af8b93,BRA,22.555138,7.0062723
+Thomas Meunier,Lille,DF,32.0,e162b013,BEL,22.767017,5.404509
+Fabián Ruiz Peña,Paris S,MF,28.0,c0c7ff58,ESP,21.77224,5.843856
+Issa Soumaré,Le Havre,"FW,MF",23.0,1d8aa290,SEN,25.44493,7.9540353
+Nicolás Tagliafico,Lyon,DF,31.0,f0661424,ARG,22.808788,5.525324
+Zakaria Aboukhlal,Toulouse,"MF,FW",24.0,c2a6033c,MAR,25.890127,9.046228
+Enzo Tchato,Montpellier,DF,21.0,7f783431,CMR,24.295649,3.420301
+Farid El Melali,Angers,FW,27.0,d21e361a,ALG,24.248938,7.8148446
+Joris Chotard,Montpellier,MF,22.0,7909ffa4,FRA,24.493353,4.232427
+Lucas Stassin,Saint,FW,19.0,a47d6f3a,BEL,25.945618,8.603163
+João Neves,Paris S,"MF,DF",19.0,c2a15a27,POR,21.816708,5.6431885
+Breel Embolo,Monaco,"FW,MF",27.0,0b4f388a,SUI,25.324352,9.3863535
+Gaëtan Laborde,Nice,FW,30.0,7cdda3bf,FRA,25.51282,9.305335
+Deiver Machado,Lens,"DF,MF",30.0,b3f8bdef,COL,23.668858,6.0208044
+Becir Omeragic,Montpellier,DF,22.0,c284d6fb,SUI,21.735416,1.4946896
+Florian Sotoca,Lens,"FW,MF",33.0,7a42d0df,FRA,24.070507,7.092987
+Haris Belkebla,Angers,MF,30.0,2b1bed19,ALG,24.605701,4.897367
+Gabriel Gudmundsson,Lille,DF,25.0,d5d22a58,SWE,23.56021,5.727141
+Félix Lemaréchal,Strasbourg,"MF,FW",20.0,8ca9415f,FRA,24.710876,6.8824754
+Pablo Rosario,Nice,"MF,DF",27.0,1a6b7ea4,DOM,24.747599,5.366764
+Jordan Ferri,Montpellier,MF,32.0,375622c5,FRA,22.87766,4.547795
+Benjamin Bouchouari,Saint,MF,22.0,599f9013,MAR,23.566216,5.05595
+Hákon Arnar Haraldsson,Lille,"MF,FW",21.0,e2ae54db,ISL,23.366829,7.9019365
+Jim Allevinah,Angers,FW,29.0,1956b948,GAB,25.532322,7.996317
+Eliesse Ben Seghir,Monaco,"MF,FW",19.0,3bd65247,MAR,23.307312,8.424312
+Aïssa Mandi,Lille,DF,32.0,fbd6378b,ALG,21.943806,3.902622
+Ousmane Dembélé,Paris S,FW,27.0,b19db005,FRA,23.419687,8.683393
+Désiré Doué,Paris S,"FW,MF",19.0,9e7483ff,FRA,23.389542,8.7667465
+Marquinhos,Paris S,DF,30.0,d5f2f82b,BRA,20.978348,4.6362
+Philipp Köhn,Monaco,GK,26.0,ff74841d,SUI,17.524654,-15.133565
+Abdoulaye Niakhate Ndiaye,Brest,DF,22.0,b8cd2ae4,SEN,21.522934,2.1170714
+Joseph Okumu,Reims,DF,27.0,039f1983,KEN,20.901123,3.0344744
+Marshall Munetsi,Reims,MF,28.0,2acf0cd7,ZIM,26.387886,7.9057746
+Rabby Nzingoula,Montpellier,MF,18.0,627c7a3d,FRA,25.422073,5.455399
+Hans Hateboer,Rennes,DF,30.0,3b333ac3,NED,22.30058,3.9068215
+Massadio Haïdara,Brest,DF,31.0,5167c97e,MLI,24.251343,3.8942864
+Nuno Mendes,Paris S,DF,22.0,f20e4cc9,POR,21.553963,5.8853855
+Joshua King,Toulouse,"FW,MF",32.0,43458538,NOR,25.82573,8.812885
+Lee Kang-in,Paris S,"FW,MF",23.0,8455ad90,KOR,22.692015,7.6124005
+Gabriel Osho,Auxerre,DF,25.0,cd889153,NGA,21.55252,1.8814534
+Esteban Lepaul,Angers,FW,24.0,85ce1949,FRA,26.157623,8.420976
+Oumar Diakité,Reims,FW,20.0,44435c8f,CIV,25.69678,8.560621
+Mohamed Ali Cho,Nice,"FW,MF",20.0,f8405304,FRA,24.536316,8.61311
+Arthur Desmas,Le Havre,GK,30.0,e8c5dd4d,FRA,17.542189,-14.666292
+Quentin Merlin,Marseille,DF,22.0,0bfca6a1,FRA,22.351265,6.6659527
+Malick Fofana,Lyon,FW,19.0,8236f673,BEL,24.086592,8.626439
+Neil El Aynaoui,Lens,MF,23.0,17e1261b,MAR,23.502737,6.1336546
+Duje Ćaleta-Car,Lyon,DF,27.0,94f8d10c,CRO,21.038649,2.8091285
+Mathias Pereira Lage,Brest,"FW,MF",27.0,8846a40f,POR,23.598421,7.696492
+Anthony Lopes,Nantes,GK,33.0,f00de885,POR,17.87279,-14.803936
+Valentin Rongier,Marseille,"MF,DF",29.0,ed45c4a5,FRA,21.536625,5.2304425
+Jordan Veretout,Lyon,MF,31.0,4a56052c,FRA,23.112003,5.50843
+Brice Samba,Rennes,GK,30.0,60d90c55,FRA,17.825588,-14.804872
+Pierre Lees-Melou,Brest,MF,31.0,f5044e54,FRA,22.535933,5.3154263
+Yassin Belkhdim,Angers,MF,22.0,e21d1928,FRA,25.177458,4.930307
+Frank Magri,Toulouse,"FW,MF",24.0,42fdb11d,CMR,26.31929,8.712072
+Nathan Zeze,Nantes,DF,19.0,fb4c5b6e,FRA,21.635675,2.4491355
+Abdoulaye Bamba,Angers,DF,34.0,7fecbcdb,CIV,21.869572,1.7561681
+Christian Mawissa,Monaco,DF,19.0,2c70d915,FRA,21.826694,3.1551056
+Steve Mandanda,Rennes,GK,39.0,1d2d5cc8,FRA,17.927132,-14.969083
+Tanguy Coulibaly,Montpellier,"FW,MF",23.0,05ba9d7c,FRA,25.540716,7.3917117
+M'Bala Nzola,Lens,FW,27.0,a4948e67,ANG,25.893454,8.930995
+Kévin Danois,Auxerre,MF,20.0,e76f6fbe,FRA,23.77733,5.4196825
+Christopher Wooh,Rennes,DF,22.0,b003239d,CMR,20.62172,2.3019142
+André Ayew,Le Havre,FW,34.0,5dbefa9d,GHA,26.506308,8.338442
+Georges Mikautadze,Lyon,FW,23.0,4788cb6b,GEO,25.157297,9.13827
+Mathieu Gorgelin,Le Havre,GK,33.0,4d3e9033,FRA,18.047222,-14.93092
+Derek Cornelius,Marseille,DF,26.0,577744b8,CAN,20.9649,3.772195
+Anass Zaroury,Lens,"FW,MF",23.0,07d65234,MAR,22.953556,7.45822
+Ali Abdi,Nice,"DF,MF",30.0,ad7cdb35,TUN,22.960737,5.9928656
+Przemysław Frankowski,Lens,DF,29.0,00a8d210,POL,22.426449,6.197469
+Malang Sarr,Lens,DF,25.0,4315f30d,FRA,21.51813,3.187162
+Julien Le Cardinal,Brest,DF,26.0,547a72ad,FRA,20.628662,1.9887973
+Radosław Majecki,Monaco,GK,24.0,20de219a,POL,17.434978,-14.941063
+Emmanuel Biumla,Angers,DF,19.0,e5a94f46,FRA,21.971706,1.9139292
+Kamory Doumbia,Brest,"MF,FW",21.0,9226aa22,MLI,24.34353,6.1928587
+Sorba Thomas,Nantes,"FW,MF",24.0,8725a42e,WAL,23.281803,7.2029686
+Lilian Raolisoa,Angers,"DF,FW",24.0,79a793b7,FRA,23.945354,3.6145284
+Amadou Koné,Reims,MF,19.0,2eb1ec07,MLI,24.53293,4.902701
+Osame Sahraoui,Lille,"FW,MF",23.0,6f9fa232,MAR,23.595697,8.768954
+André Gomes,Lille,MF,31.0,1961b2aa,POR,22.228296,5.1622996
+Mathew Ryan,Lens,GK,32.0,4535e4bb,AUS,17.638422,-14.946593
+Emmanuel Agbadou,Reims,DF,27.0,75f1ed80,CIV,21.31223,3.6938734
+Romain Del Castillo,Brest,FW,28.0,0be95d34,FRA,23.33595,7.736017
+Mostafa Mohamed,Nantes,FW,26.0,595e6f3e,EGY,26.495125,8.935837
+Florian Tardieu,Saint,MF,32.0,ed39121c,FRA,22.24522,4.7365417
+Arouna Sangante,Le Havre,DF,22.0,17bb562c,SEN,20.438925,3.110597
+Abdallah Sima,Brest,"FW,MF",23.0,fdbde523,SEN,25.998436,8.652411
+Tanner Tessmann,Lyon,MF,22.0,ac277993,USA,22.70805,4.796268
+Lilian Brassier,Rennes,DF,24.0,5b146df3,FRA,21.179386,4.019156
+Falaye Sacko,Montpellier,DF,29.0,6388e356,MLI,24.077381,2.9477782
+Mika Biereth,Monaco,FW,21.0,a1d95db3,DEN,25.42357,9.549922
+Leo Skiri Østigård,Rennes,DF,24.0,b35a7399,NOR,21.459305,2.7312713
+Ngal'Ayel Mukau,Lille,MF,19.0,bb461b8a,COD,24.050964,5.10345
+Shavy Babicka,Toulouse,"MF,FW",24.0,c6f0d5d4,GAB,25.078098,8.421759
+Jordan James,Rennes,MF,20.0,f719ad7f,WAL,23.530241,5.962096
+Christopher Operi,Le Havre,"DF,FW",27.0,914bb955,CIV,22.920689,7.111662
+Arnaud Nordin,Montpellier,FW,26.0,7b9a9e25,FRA,25.310211,7.714251
+Nhoa Sangui,Reims,"DF,MF",18.0,3f465a66,FRA,24.107603,3.127257
+Valentín Barco,Strasbourg,"MF,DF",20.0,b9f282ec,ARG,22.78641,4.358698
+Issiaga Sylla,Montpellier,DF,30.0,b99bec05,GUI,24.47577,3.5148158
+Aleksandr Golovin,Monaco,"MF,FW",28.0,3708e9fa,RUS,23.877722,6.67775
+Ayyoub Bouaddi,Lille,MF,16.0,8006228f,FRA,24.318432,4.833699
+Mama Samba Baldé,Brest,FW,28.0,fb14aa28,GNB,25.767637,8.12141
+Mitchel Bakker,Lille,"FW,DF",24.0,a8567629,NED,23.160242,7.1430593
+Tanguy Ndombele,Nice,MF,27.0,5cdddffa,FRA,24.19507,5.804983
+Mory Gbane,Reims,"DF,MF",23.0,ab8b392c,CIV,22.315191,2.1065326
+Ruben Aguilar,Lens,"DF,MF",31.0,3dd738a1,FRA,22.74582,5.731242
+Djaoui Cissé,Rennes,MF,20.0,576ca93f,FRA,23.031345,4.9347286
+Wahbi Khazri,Montpellier,"FW,MF",33.0,2677a1de,TUN,25.33753,7.15458
+Musa Al-Taamari,Montpellier,"FW,MF",27.0,f15f8b2b,JOR,24.990507,8.2209
+Timothee Pembele,Le Havre,DF,21.0,f8ce97ca,FRA,24.68786,3.4011602
+Jaydee Canvot,Toulouse,"DF,MF",18.0,3684108d,FRA,22.635735,2.8091087
+Edimilson Fernandes,Brest,"MF,DF",28.0,3bb625ac,SUI,22.328333,2.3718307
+Badredine Bouanani,Nice,"MF,FW",19.0,0400dd2f,ALG,24.024511,8.5790615
+Abner,Lyon,DF,24.0,7f9c5d2d,BRA,23.08625,5.7832685
+Alban Lafont,Nantes,GK,25.0,4e7db402,FRA,17.779959,-14.934709
+Kevin Danso,Lens,DF,25.0,6e33125f,AUT,21.21384,3.334294
+Akor Adams,Montpellier,FW,24.0,2ccd39ed,NGA,26.51153,8.859467
+Gonçalo Ramos,Paris S,FW,23.0,f63cda26,POR,25.431988,9.670652
+Matias Fernandez-Pardo,Lille,"FW,MF",19.0,0cdb6a2a,BEL,24.444672,8.315797
+Sofiane Diop,Nice,"MF,FW",24.0,19053e31,FRA,23.627024,8.540922
+Irvin Cardona,Saint,FW,26.0,5e080f73,MLT,25.707531,8.214248
+Rassoul Ndiaye,Le Havre,MF,22.0,36f65bdf,SEN,25.363495,5.096568
+Jeremie Boga,Nice,"MF,FW",27.0,fe012aca,CIV,24.251919,8.383963
+Ernest Nuamah,Lyon,"FW,MF",20.0,234a703c,GHA,24.672346,7.610012
+Amine Gouiri,Marseille,"FW,MF",24.0,aad56ca3,ALG,24.402283,8.897123
+Han-Noah Massengo,Auxerre,MF,23.0,eba1e557,FRA,24.833448,4.924192
+Angelo Fulgini,Lens,"MF,FW",27.0,4b96c347,FRA,23.210373,7.6726046
+Louis Mouton,Saint,MF,22.0,c37823fe,FRA,24.146908,5.1664104
+Neal Maupay,Marseille,FW,27.0,4bcf39f6,FRA,25.846596,8.311527
+Aimen Moueffek,Saint,MF,23.0,2591b066,FRA,25.260933,6.0182757
+Yunis Abdelhamid,Saint,DF,36.0,32c2d95f,MAR,22.221014,1.5436124
+Khalil Fayad,Montpellier,"MF,FW",20.0,faf00ab8,FRA,24.57067,4.1375155
+Soungoutou Magassa,Monaco,MF,20.0,dfc5d4fa,FRA,23.58043,5.1187844
+Mohammed Salisu,Monaco,DF,25.0,0b33f6ad,GHA,21.406267,3.4234304
+Warren Kamanzi,Toulouse,"DF,MF",23.0,a426a912,NOR,24.230198,5.4449277
+Saidou Sow,Strasbourg,DF,22.0,f6b94e8d,GUI,21.509228,2.5766892
+Théo Sainte-Luce,Montpellier,DF,25.0,93c942fb,FRA,25.080141,3.4887
+Rémy Cabella,Lille,"FW,MF",34.0,148e136f,FRA,22.848448,8.067927
+Paul Joly,Auxerre,DF,24.0,5b4bc323,FRA,23.386145,4.021171
+Oussama Targhalline,Le Havre,MF,22.0,abd56820,MAR,24.823244,4.3695846
+Edon Zhegrova,Lille,"FW,MF",25.0,34a88e3e,KVX,23.974426,8.207915
+Yanis Zouaoui,Le Havre,"DF,FW",30.0,ec724366,ALG,23.103256,7.2352576
+Abdukodir Khusanov,Lens,DF,20.0,d17ce930,UZB,21.259674,2.4259076
+Anthony Rouault,Rennes,DF,23.0,9b545925,FRA,21.055456,3.1558812
+Ado Onaiwu,Auxerre,"MF,FW",28.0,ff4df82e,JPN,26.038649,8.143638
+Junior Mwanga,Le Havre,MF,21.0,ee158be5,FRA,24.117664,5.589277
+Thiago Almada,Lyon,"MF,FW",23.0,27f33438,ARG,22.588001,7.8630652
+Sael Kumbedi,Lyon,DF,19.0,c385bf49,FRA,24.266842,4.3179183
+Marcus Coco,Nantes,DF,28.0,3010aefb,FRA,23.954105,3.8835938
+Abakar Sylla,Strasbourg,DF,21.0,29c91632,CIV,20.851297,2.0391681
+Yael Mouanga,Montpellier,DF,19.0,153e48e0,FRA,21.80538,1.3930408
+Antoine Joujou,Le Havre,"MF,FW",21.0,f9124307,FRA,24.765411,7.7733626
+Ibrahima Niane,Angers,FW,25.0,46faabfa,SEN,26.291779,9.216564
+Theo Bair,Auxerre,FW,24.0,c724745e,CAN,26.674595,8.722729
+Ulisses Garcia,Marseille,DF,28.0,c952f633,SUI,22.37357,5.975388
+Jérémy Jacquet,Rennes,DF,19.0,cef70c94,FRA,22.570614,3.5023742
+Baptiste Santamaria,Nice,MF,29.0,5e22e2a4,FRA,23.73804,4.8693576
+Khvicha Kvaratskhelia,Paris S,FW,23.0,dea88efd,GEO,23.267286,8.875961
+Wesley Saïd,Lens,FW,29.0,90fcf472,FRA,25.611996,7.9431467
+Ismaily,Lille,DF,34.0,cf182add,BRA,22.616411,5.569935
+Romain Faivre,Brest,"MF,FW",26.0,745ca0a3,FRA,24.259947,8.288785
+Hiroki Sekine,Reims,DF,21.0,7304dd80,JPN,24.35735,2.9045153
+Goduine Koyalipou,Lens,FW,24.0,2659a508,CTA,25.874712,9.161306
+Matvei Safonov,Paris S,GK,25.0,d97b252e,RUS,17.644121,-15.230155
+Lucas Hernández,Paris S,DF,28.0,c3ee18ef,FRA,21.20962,4.3438706
+Mathis Amougou,Saint,MF,18.0,f93cca97,FRA,25.311718,4.5516367
+Mamadou Diakhon,Reims,"FW,MF",18.0,331c5a98,FRA,24.64675,8.0183115
+Mohamed Abdelmoneim,Nice,DF,25.0,bff15d74,EGY,21.986635,3.0014503
+Koka,Le Havre,FW,31.0,9fc2531b,EGY,25.854319,9.308162
+Zinedine Ferhat,Angers,"FW,MF",31.0,005c0807,ALG,23.7945,7.3227153
+Seko Fofana,Rennes,MF,29.0,5313ed43,CIV,22.33245,5.8517065
+Antoine Mendy,Nice,DF,20.0,3322e296,SEN,23.100763,4.0260706
+Ibrahim Sissoko,Saint,FW,28.0,a170541f,MLI,26.171053,8.5612
+Louis Leroux,Nantes,"MF,DF",18.0,88972aa9,FRA,25.10419,6.0051146
+Albert Grønbaek,Rennes,"MF,FW",23.0,0da5076f,DEN,24.19119,7.9115887
+Senny Mayulu,Paris S,MF,18.0,bac89b96,FRA,22.507854,6.5374017
+Jonathan Rowe,Marseille,"FW,MF",21.0,8c12f884,ENG,23.974913,9.100096
+Alidu Seidu,Rennes,DF,24.0,cea59f02,GHA,22.631487,3.982958
+Yoann Salmier,Le Havre,DF,31.0,c3725db2,GUF,22.190245,1.6263425
+Yvann Macon,Saint,DF,25.0,0bb6e193,FRA,24.594547,3.2176206
+Jordan Amavi,Brest,DF,30.0,22721b88,FRA,23.894472,3.440059
+Tom Louchet,Nice,"DF,MF",21.0,f999e9be,FRA,22.921524,5.414935
+Sekou Mara,Strasbourg,"FW,MF",22.0,3544641e,FRA,26.3506,8.012208
+Maxime Bernauer,Saint,DF,26.0,43750e5d,FRA,20.982613,2.9567828
+Boubakar Kouyaté,Montpellier,DF,27.0,562a4799,MLI,22.106153,1.4878043
+Teddy Teuma,Reims,MF,30.0,5c26ca51,MLT,23.140427,6.4955425
+Angel Gomes,Lille,MF,23.0,645a3363,ENG,23.768911,6.9471116
+Saïd Benrahma,Lyon,"FW,MF",28.0,5a04fd92,ALG,23.850716,8.617658
+Augustine Boakye,Saint,"FW,MF",23.0,59e9edb5,GHA,25.269775,7.9514556
+Mathieu Cafaro,Saint,"MF,FW",27.0,2a657da0,FRA,25.226171,7.2426047
+Rayan Raveloson,Auxerre,"MF,DF",27.0,fb3236a7,MAD,24.085672,4.4546266
+George Ilenikhena,Monaco,FW,17.0,78c3ad07,NGA,25.775866,9.618836
+Lucas Mincarelli,Montpellier,DF,20.0,02b3733e,FRA,24.630915,2.937903
+Jacques Ekomie,Angers,"DF,FW",20.0,8d5016e6,GAB,25.199553,3.9990993
+Mikayil Ngor Faye,Rennes,DF,20.0,b37ae816,SEN,21.054873,3.327904
+Abdulai Juma Bah,Lens,DF,18.0,7b505397,SLE,21.880106,2.2304082
+Pol Lirola,Marseille,DF,26.0,ff800ed8,ESP,20.26106,2.2033799
+Assane Dioussé,Auxerre,MF,26.0,7f622eef,SEN,23.809052,4.5959764
+Glen Kamara,Rennes,MF,28.0,4da9191b,FIN,23.91412,4.963761
+Emmanuel Sabbi,Le Havre,"FW,MF",26.0,2e1b7c83,USA,25.956871,7.7000074
+Ismaël Bennacer,Marseille,MF,26.0,db092d3b,ALG,21.340408,5.6221414
+Chuba Akpom,Lille,FW,28.0,e2b384d2,ENG,25.950144,9.558269
+Luck Zogbé,Brest,DF,19.0,3725b44f,CIV,23.42915,3.7655683
+Rémy Labeau Lascary,Lens,"FW,MF",21.0,c90f380c,GLP,24.899458,8.50649
+Yaya Kader Fofana,Reims,"MF,FW",20.0,cedc53d2,MLI,24.707352,6.8921943
+Rasmus Nicolaisen,Toulouse,DF,27.0,3f319bb9,DEN,20.370852,2.060446
+Marco Asensio,Paris S,"FW,MF",28.0,45af8a54,ESP,24.331604,9.277325
+Folarin Balogun,Monaco,FW,23.0,31822f8c,USA,25.65478,9.139793
+Andy Delort,Montpellier,FW,32.0,d33c706e,ALG,26.424685,8.658442
+Jhoanner Chávez,Lens,"DF,MF",22.0,649b57e9,ECU,23.723797,6.6220093
+Fodé Ballo-Touré,Le Havre,"DF,MF",27.0,f449640d,SEN,24.437454,3.05062
+Nampalys Mendy,Lens,MF,32.0,1598599e,SEN,24.70299,5.236924
+Mahamadou Diawara,Le Havre,MF,19.0,1906b842,FRA,24.599976,5.029905
+Nikola Maksimović,Montpellier,DF,32.0,16b9d5cf,SRB,21.660236,2.0406857
+Pierre Cornud,Saint,DF,27.0,edeb21ff,FRA,24.211205,2.7216318
+Florian Ayé,Auxerre,FW,27.0,718b8afd,FRA,26.657154,8.285292
+Elye Wahi,Marseille,FW,21.0,0d7b6576,FRA,25.384975,9.55359
+Maxence Caqueret,Lyon,MF,24.0,f81ef10d,FRA,23.97786,5.366599
+Jordan Teze,Monaco,DF,24.0,82e9b1bb,NED,22.82172,5.377692
+Daler Kuzyaev,Le Havre,MF,31.0,d4e93bab,RUS,24.934006,3.2963872
+John Joe,Reims,MF,20.0,fd01216a,IRL,25.423151,4.7015333
+Mohamed Meité,Rennes,FW,16.0,424cbbb3,FRA,26.241585,9.12087
+Andrew Omobamidele,Strasbourg,DF,22.0,c393a6c4,IRL,20.618137,3.0688179
+Jean-Kevin Duverne,Nantes,DF,27.0,0cbc8baa,HAI,23.546474,3.5861251
+Bamba Dieng,Angers,FW,24.0,40774c6b,SEN,26.1461,9.1459875
+Ben Old,Saint,"FW,MF",21.0,e14e818c,NZL,25.55486,7.223649
+Amine Harit,Marseille,MF,27.0,e7d59f4f,MAR,23.37126,8.405262
+Tino Kadewere,Nantes,"MF,FW",28.0,7d08063d,ZIM,25.250479,6.5731926
+Krépin Diatta,Monaco,"DF,FW",25.0,8104e41e,SEN,23.167875,4.9038706
