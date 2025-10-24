@@ -1,2 +1,0 @@
-method,tag,eps,min_samples,silhouette,calinski_harabasz,davies_bouldin,n_clusters,n_noise,calinski_harabasz_rank
-umap,joueurs_ligue1_2024_2025_clean_custom_umap3d_best_embedding,0.6823820201699978,15,0.35318993186607867,195.73737097479898,0.9120467751585114,5,25,1.0

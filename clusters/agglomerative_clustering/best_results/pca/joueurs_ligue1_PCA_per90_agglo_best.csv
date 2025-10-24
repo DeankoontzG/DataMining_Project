@@ -1,2 +1,0 @@
-method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
-pca,joueurs_ligue1_PCA_per90,2,ward,0.5690723071937853,9.26444051908756,0.3154943358415132,2,1.0,4.0,1.0

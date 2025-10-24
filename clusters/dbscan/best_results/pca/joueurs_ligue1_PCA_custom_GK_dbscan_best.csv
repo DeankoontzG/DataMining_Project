@@ -1,2 +1,0 @@
-method,tag,eps,min_samples,silhouette,calinski_harabasz,davies_bouldin,n_clusters,n_noise,calinski_harabasz_rank
-pca,joueurs_ligue1_PCA_custom_GK,4.862859738237236,5,0.15010858006624975,6.038735941220049,1.5088534762733778,2,149,1.0
