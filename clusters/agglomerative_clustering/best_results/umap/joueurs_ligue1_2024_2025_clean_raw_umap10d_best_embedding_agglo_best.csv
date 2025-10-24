@@ -1,0 +1,2 @@
+method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
+umap,joueurs_ligue1_2024_2025_clean_raw_umap10d_best_embedding,5,average,0.3458041940666843,214.5371276918237,1.012266848653038,5,1.0,3.0,13.0

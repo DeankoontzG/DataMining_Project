@@ -1,0 +1,2 @@
+method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
+isomap,joueurs_ligue1_ISOMap_per90,2,average,0.3972290316462644,4.436469430115992,0.4534801889598148,2,1.0,27.0,1.0

@@ -1,0 +1,2 @@
+method,tag,eps,min_samples,silhouette,calinski_harabasz,davies_bouldin,n_clusters,n_noise,calinski_harabasz_rank
+isomap,joueurs_ligue1_ISOMap_per90,1.2034585989253086,20,0.4365448602246133,95.23863348692865,0.8498921981143267,3,210,1.0

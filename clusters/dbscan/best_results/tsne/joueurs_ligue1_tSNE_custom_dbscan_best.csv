@@ -1,0 +1,2 @@
+method,tag,eps,min_samples,silhouette,calinski_harabasz,davies_bouldin,n_clusters,n_noise,calinski_harabasz_rank
+tsne,joueurs_ligue1_tSNE_custom,0.9892498191690862,15,0.2935541847416097,129.28866582193,1.362806726412389,2,44,1.0
