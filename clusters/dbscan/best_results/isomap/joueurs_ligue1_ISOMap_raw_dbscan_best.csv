@@ -1,2 +1,2 @@
 method,tag,eps,min_samples,silhouette,calinski_harabasz,davies_bouldin,n_clusters,n_noise,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
-isomap,joueurs_ligue1_ISOMap_custom,1.2586078468106978,20,0.2955510714100533,55.2281697967116,1.1091996474368688,4,215,1.0,1.0,3.0
+isomap,joueurs_ligue1_ISOMap_raw,0.7234217331207965,7,0.406533212202096,51.69348437238454,0.7511551802505838,2,176,1.0,1.0,2.0
