@@ -1,7 +1,4 @@
 method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters
-umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,2,ward,0.3297359656014139,200.47123292628993,1.107382800041104,2
-umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,2,complete,0.3161089136360018,187.9747993834639,1.1194144183803436,2
-umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,2,average,0.36282863116130143,189.10388274417016,0.9322513462605457,2
 umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,3,ward,0.3252054732124209,221.62720646999085,1.1818831326494024,3
 umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,3,complete,0.3201008450222469,219.74680629336595,1.1887491628107656,3
 umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,3,average,0.32008827055459377,217.26558608725853,1.2164515907505307,3

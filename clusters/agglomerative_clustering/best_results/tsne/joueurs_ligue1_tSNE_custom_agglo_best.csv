@@ -1,2 +1,2 @@
 method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
-tsne,joueurs_ligue1_tSNE_custom,2,average,0.2802929035104459,98.87244336082082,0.9378709661974166,2,1.0,27.0,1.0
+tsne,joueurs_ligue1_tSNE_custom,3,complete,0.27132946418553655,139.72993275843675,1.2723630440201497,3,1.0,1.0,10.0

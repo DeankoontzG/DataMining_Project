@@ -1,7 +1,4 @@
 method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters
-isomap,joueurs_ligue1_ISOMap_custom,2,ward,0.1450399078206801,44.50749766623879,1.6520350983632959,2
-isomap,joueurs_ligue1_ISOMap_custom,2,complete,0.19072926045558392,27.42479136046393,2.1833108380689707,2
-isomap,joueurs_ligue1_ISOMap_custom,2,average,0.34283342192157895,12.402568159688938,0.881311912329209,2
 isomap,joueurs_ligue1_ISOMap_custom,3,ward,0.173756254992219,50.613607411068394,2.0645889055310587,3
 isomap,joueurs_ligue1_ISOMap_custom,3,complete,0.16249939164237578,22.542565572677514,1.51230493082688,3
 isomap,joueurs_ligue1_ISOMap_custom,3,average,0.2723364406697106,15.111959004628545,1.0514443974943137,3
