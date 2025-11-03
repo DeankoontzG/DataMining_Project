@@ -1,0 +1,17 @@
+
+Clusters selectionnés (pour le tus) :
+
+Affinity propagation hyperparameters - tSNE : damping = 0.75 , preference = -40 , random_state = 42
+
+GMM - tSNE : n_clusters = 5, covariance_type = "full", random_state = 42
+
+dbscan_tsne :method,tag,eps,min_samples,silhouette,calinski_harabasz,davies_bouldin,n_clusters,n_noise,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
+tsne,joueurs_ligue1_tSNE_custom,0.9521711055021824,20,0.37869527367174755,114.2201279633516,0.9073610823185558,4,151,1.0,2.0,1.0
+
+agglomerative clustering umap --> hyper params sont cluster_param (nbr de cluster precise) et linkage
+method,tag,n_clusters_param,linkage,silhouette,calinski_harabasz,davies_bouldin,n_clusters,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
+umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,5,ward,0.33319599197281397,216.04234233823593,1.0862036871931489,5,1.0,4.0,10.0
+
+kmeans umap 5 clusters
+method,tag,n_clusters_param,silhouette,calinski_harabasz,davies_bouldin,n_clusters,silhouette_rank,calinski_harabasz_rank,davies_bouldin_rank
+umap,joueurs_ligue1_2024_2025_clean_per90_umap5d_best_embedding,5,0.3553171667280952,231.09543272059196,0.9933438037588834,5,1.0,3.0,1.0
